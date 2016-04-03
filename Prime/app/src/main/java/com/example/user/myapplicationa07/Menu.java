@@ -23,7 +23,7 @@ public class Menu extends Activity {
         startActivity(intent);
     }
 
-    public void Register(View view) {
+    public void register(View view) {
         Intent intent = new Intent(this, RegisterActivity.class);
         startActivity(intent);
     }

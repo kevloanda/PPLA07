@@ -43,11 +43,11 @@
                 android:singleLine="true" />
 
             <EditText
-                android:id="@+id/editText"
+                android:id="@+id/phone"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Phone Number"
-                android:imeActionId="@+id/login"
+                android:imeActionId="@+id/phone"
                 android:imeActionLabel="@string/action_sign_in_short"
                 android:imeOptions="actionUnspecified"
                 android:inputType="phone"
@@ -88,7 +88,7 @@
             </android.support.design.widget.TextInputLayout>
 
             <EditText
-                android:id="@+id/editText2"
+                android:id="@+id/twitter"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Twitter"
@@ -106,8 +106,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:text="Register"
-                android:textStyle="bold" />
-
+                android:textStyle="bold"
+                android:onClick="register" />
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
