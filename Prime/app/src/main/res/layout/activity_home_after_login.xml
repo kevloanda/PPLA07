@@ -10,6 +10,21 @@
     tools:context="com.example.user.myapplicationa07.Home_after_login">
 
     <ImageView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:src="@drawable/ic_bluetooth_24dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/button4"
+        android:layout_alignEnd="@+id/button4" />
+    <ImageView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:src="@drawable/ic_tap_and_play_24dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/button4"
+        android:layout_alignEnd="@+id/button4"
+        android:layout_marginRight="30dp"/>
+    <ImageView
         android:layout_width="wrap_content"
         android:layout_height="400dp"
         android:src="@drawable/maskothalf"
@@ -20,22 +35,24 @@
 
     <Button
         style="?android:attr/buttonStyleSmall"
-        android:layout_width="160dp"
+        android:layout_width="170dp"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="Emergency Contact"
+        android:textSize="13.5dp"
         android:id="@+id/button3"
-        android:layout_marginLeft="10dp"
+        android:layout_marginLeft="5dp"
         android:layout_below="@+id/imageView2"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:color="#ff7043"/>
 
     <Button
         style="?android:attr/buttonStyleSmall"
-        android:layout_width="160dp"
+        android:layout_width="170dp"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="Dangerous Area"
         android:id="@+id/button4"
-        android:layout_marginRight="10dp"
+        android:layout_marginRight="5dp"
         android:layout_alignParentBottom="true"
         android:layout_alignRight="@+id/imageView2"
         android:layout_alignEnd="@+id/imageView2" />
