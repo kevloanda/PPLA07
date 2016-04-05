@@ -1,13 +1,10 @@
 package com.example.user.myapplicationa07;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.app.Activity;
+import android.util.Log;
 import android.view.View;
-import java.sql.DriverManager;
-import java.sql.Connection;
-import java.sql.Statement;
-import java.sql.ResultSet;
+import android.widget.EditText;
 
 public class RegisterActivity extends Activity {
 
@@ -17,19 +14,25 @@ public class RegisterActivity extends Activity {
         setContentView(R.layout.activity_register);
     }
 
-    public void register(View view) {
+    public void register(View view){
         try {
-            Class.forName("com.mysql.jdbc.driver");
-            Connection connect = DriverManager.getConnection("jdbc:mysql://localhost/user?" + "user=christian&password=uwaaaaa");
-            Statement statement = connect.createStatement();
-            String query = "Insert into user values()";
-            int result = statement.executeUpdate(query);
-            if(result == 0) {
-                setContentView(R.layout.error_page);
-            }
+            String username = ((EditText)findViewById(R.id.username)).getText().toString();
+            String email = ((EditText)findViewById(R.id.email)).getText().toString();
+            String nomorhp = ((EditText)findViewById(R.id.phone)).getText().toString();
+            String password = ((EditText)findViewById(R.id.password)).getText().toString();
+            String twitter = ((EditText)findViewById(R.id.twitter)).getText().toString();
+
+//            To be changed later
+            String foto = "link_foto";
+
+            AsyncHTTPRequest async = new AsyncHTTPRequest();
+
+//            Change the url in execute according to the register.php location
+            async.execute("http://192.168.173.1/register.php?username=" + username + "&email=" + email + "&password=" + password + "&nomorhp=" + nomorhp + "&foto=" + foto + "&twitter=" + twitter);
+
         }
         catch(Exception e) {
-
+            Log.e("MYAPP", "exception", e);;
         }
     }
 }
