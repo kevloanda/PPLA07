@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\classes-c41f0c7b135e3f7a30b6321b7bf6ef9ba1724852.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\classes-6bd34ea1350543b5d4c0b955906ca4c3f7dba993.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\classes-7a867a118c17ac5229d8e35599effdee8af1ec69.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-4c363ada7d89fba6f758c57a2562b92eb1c07806.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\classes-813fae3f3b1477a706fbe55ef632b88593899865.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-fb4bc61f80c1e3924c03d079c71fc306a5f9bfa9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\classes-0efa1dd81e68f5245c2aa091c457218a1f6b3e9d.jar" />
+    </item>
+
+</items>

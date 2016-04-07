@@ -59,7 +59,7 @@ public class LoginActivity extends Activity {
             AsyncHTTPRequest async = new AsyncHTTPRequest();
 
 //            Change the url in execute according to the register.php location
-            async.execute("http://192.168.173.1/register.php?&email=" + email + "&password=" + password);
+            async.execute("http://192.168.173.1/login.php?&email=" + email + "&password=" + password);
 
         }
         catch(Exception e) {
