@@ -26,9 +26,9 @@
     <color name="background_material_light">@color/material_grey_50</color>
     <!-- From: file:/C:/Users/user/Documents/GitHub/PPLA07/CombinedProject/Prime/app/src/main/res/values/colors.xml -->
     <eat-comment/>
-    <color name="bg_login">#26ae90</color>
+    <color name="bg_login">#f5f5f5</color>
     <color name="bg_main">#428bca</color>
-    <color name="bg_register">#2e3237</color>
+    <color name="bg_register">#f5f5f5</color>
     <!-- From: file:/C:/Users/user/Documents/GitHub/PPLA07/CombinedProject/Prime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
@@ -40,8 +40,8 @@
     <!-- From: file:/C:/Users/user/Documents/GitHub/PPLA07/CombinedProject/Prime/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="btn_login">#26ae90</color>
-    <color name="btn_login_bg">#eceef1</color>
-    <color name="btn_logut_bg">#ff6861</color>
+    <color name="btn_login_bg">#009688</color>
+    <color name="btn_logut_bg">#ff5722</color>
     <!-- From: file:/C:/Users/user/Documents/GitHub/PPLA07/CombinedProject/Prime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="button_material_dark">#ff5a595b</color>
@@ -74,7 +74,7 @@
     <color name="input_login">#222222</color>
     <color name="input_login_hint">#999999</color>
     <color name="input_register">#888888</color>
-    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_bg">#fafafa</color>
     <color name="input_register_hint">#5e6266</color>
     <color name="lbl_name">#333333</color>
     <!-- From: file:/C:/Users/user/Documents/GitHub/PPLA07/CombinedProject/Prime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
@@ -320,7 +320,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <!-- From: file:/C:/Users/user/Documents/GitHub/PPLA07/CombinedProject/Prime/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_name">Android Login and Registration</string>
+    <string name="app_name">Prime</string>
     <!-- From: file:/C:/Users/user/Documents/GitHub/PPLA07/CombinedProject/Prime/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>

@@ -84,7 +84,7 @@ public class LoginActivity extends Activity {
                 } else {
                     // Prompt user to enter credentials
                     Toast.makeText(getApplicationContext(),
-                            "Please enter the credentials!", Toast.LENGTH_LONG)
+                            "Please enter email and password!", Toast.LENGTH_LONG)
                             .show();
                 }
             }

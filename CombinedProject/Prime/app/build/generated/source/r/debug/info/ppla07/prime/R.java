@@ -2204,7 +2204,9 @@ containing a value of this type.
         public static final int design_fab_background=0x7f020045;
         public static final int design_snackbar_background=0x7f020046;
         public static final int ic_launcher=0x7f020047;
-        public static final int notification_template_icon_bg=0x7f020048;
+        public static final int logosplash=0x7f020048;
+        public static final int maskothalf=0x7f020049;
+        public static final int notification_template_icon_bg=0x7f02004a;
     }
     public static final class id {
         public static final int action0=0x7f0c007a;
