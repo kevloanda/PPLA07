@@ -18,6 +18,7 @@ public class MainActivity extends Activity {
 	private TextView txtName;
 	private TextView txtEmail;
 	private Button btnLogout;
+	private Button btnBluetooth;
 
 	private SQLiteHandler db;
 	private SessionManager session;
@@ -27,9 +28,9 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		txtName = (TextView) findViewById(R.id.name);
-		txtEmail = (TextView) findViewById(R.id.email);
+		txtName = (TextView) findViewById(R.id.welcome);
 		btnLogout = (Button) findViewById(R.id.btnLogout);
+		btnBluetooth = (Button) findViewById(R.id.btnBluetooth);
 
 		// SqLite database handler
 		db = new SQLiteHandler(getApplicationContext());
@@ -45,11 +46,9 @@ public class MainActivity extends Activity {
 		HashMap<String, String> user = db.getUserDetails();
 
 		String name = user.get("name");
-		String email = user.get("email");
 
 		// Displaying the user details on the screen
-		txtName.setText(name);
-		txtEmail.setText(email);
+		txtName.setText("Welcome, " + name);
 
 		// Logout button click event
 		btnLogout.setOnClickListener(new View.OnClickListener() {
@@ -60,8 +59,15 @@ public class MainActivity extends Activity {
 			}
 		});
 
-		Intent intent = new Intent(MainActivity.this, BluetoothActivity.class);
-		startActivity(intent);
+        // Bluetooth button click event
+		btnBluetooth.setOnClickListener(new View.OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(MainActivity.this, BluetoothActivity.class);
+				startActivity(intent);
+			}
+		});
 	}
 
 	/**

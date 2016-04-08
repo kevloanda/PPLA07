@@ -31,6 +31,7 @@
     <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
     <color name="bright_foreground_material_dark">@android:color/white</color>
     <color name="bright_foreground_material_light">@android:color/black</color>
+    <color name="btn_bluetooth_bg">#009688</color>
     <color name="btn_login">#26ae90</color>
     <color name="btn_login_bg">#009688</color>
     <color name="btn_logut_bg">#ff5722</color>
