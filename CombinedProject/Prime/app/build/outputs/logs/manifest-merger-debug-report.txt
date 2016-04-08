@@ -7,6 +7,8 @@ ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\m
 		INJECTED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml
 	android:versionName
 		ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml
 	android:versionCode
 		ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml
