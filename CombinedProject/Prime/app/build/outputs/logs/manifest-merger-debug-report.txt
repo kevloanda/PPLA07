@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:2:1-52:12
+ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:2:1-53:12
 	package
 		ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml
@@ -41,7 +41,7 @@ ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\m
 	android:name
 		ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:12:22-64
 application
-ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:14:5-50:19
+ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:14:5-51:19
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.1.1] C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
@@ -99,12 +99,12 @@ ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\m
 	android:name
 		ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:37:13-67
 activity#info.ppla07.prime.activity.BluetoothActivity
-ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:40:9-48:20
+ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:40:9-49:20
 	android:label
 		ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:42:13-45
 	android:name
 		ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:41:13-72
 service#info.ppla07.prime.activity.BluetoothService
-ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:49:9-79
+ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:50:9-79
 	android:name
-		ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:49:18-76
+		ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:50:18-76
