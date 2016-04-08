@@ -30,7 +30,6 @@ public class BluetoothActivity extends Activity {
 
     private TextView txtName;
     private TextView txtEmail;
-    private Button btnLogout;
 
     private SQLiteHandler db;
     private SessionManager session;
@@ -52,7 +51,6 @@ public class BluetoothActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bluetooth);
-        btnLogout = (Button) findViewById(R.id.btnLogout);
 
         // SqLite database handler
         db = new SQLiteHandler(getApplicationContext());
@@ -63,16 +61,6 @@ public class BluetoothActivity extends Activity {
         if (!session.isLoggedIn()) {
             logoutUser();
         }
-
-        // Logout button click event
-        btnLogout.setOnClickListener(new View.OnClickListener() {
-
-            @Override
-            public void onClick(View v) {
-                logoutUser();
-            }
-        });
-
 
         listViewPairedDevice = (ListView)findViewById(R.id.pairedlist);
         textStatus = (TextView) findViewById(R.id.status);

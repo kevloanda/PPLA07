@@ -13,6 +13,7 @@
     <color name="btn_login">#26ae90</color>
     <color name="btn_login_bg">#009688</color>
     <color name="lbl_name">#333333</color>
+    <color name="btn_bluetooth_bg">#009688</color>
     <color name="btn_logut_bg">#ff5722</color>
 
 </resources>

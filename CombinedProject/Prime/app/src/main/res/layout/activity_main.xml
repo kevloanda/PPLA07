@@ -19,9 +19,9 @@
             android:src="@drawable/ic_bluetooth_24dp"
             android:layout_gravity="right"/>
         <TextView
+            android:id="@+id/welcome"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/welcome"
             android:textStyle="bold"
             android:layout_marginBottom="10dp"
             android:layout_marginTop="-20dp"
@@ -33,6 +33,17 @@
             android:layout_height="350dp"
             android:src="@drawable/maskothalf"
             />
+
+        <Button
+            android:id="@+id/btnBluetooth"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:background="@color/btn_bluetooth_bg"
+            android:text="BLUETOOTH"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="15dp" />
 
         <Button
             android:id="@+id/btnLogout"
