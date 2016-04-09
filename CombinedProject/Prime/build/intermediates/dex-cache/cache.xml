@@ -1,3 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_5c88f2109d7579164f32c30441144b11ce03632d.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_fd345f16be8e4d43152c1b90c7e8f3047a16b8ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_006ce85cced6eb823a57555fe4999c1641a59cea.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_a6ba04f4defbc7e0aa259c3de54ea60176204174.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_30b9908285bc6d226089606d934160980522c1b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_7228c22e3b1abbe1de58e7850453ba0984a079ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_8c3ccc2248dcca95b9a803d99bd563ba45f11063.jar" />
+    </item>
+
+</items>

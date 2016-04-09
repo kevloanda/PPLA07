@@ -1,20 +1,30 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
     android:padding="10dp"
+    android:background="@color/bg_login"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/status"
-        android:textSize="28sp"
+        android:textSize="50sp"
+        android:padding="10dp"
         android:layout_width="wrap_content"
+        android:textColor="#009688"
         android:layout_height="wrap_content"/>
 
     <ListView
         android:id="@+id/pairedlist"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:padding="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"
+        android:background="#fafafa"
+        android:layout_height="match_parent"
+        android:scrollbarSize="10dp"
+        android:scrollbarThumbVertical="@drawable/custom_scroll_style"
+        />
 
 </LinearLayout>
