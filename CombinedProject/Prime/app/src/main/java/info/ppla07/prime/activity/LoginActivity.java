@@ -36,6 +36,7 @@ public class LoginActivity extends Activity {
     private static final String TAG = RegisterActivity.class.getSimpleName();
     private Button btnLogin;
     private Button btnLinkToRegister;
+    private Button btnLinkToSms;
     private EditText inputEmail;
     private EditText inputPassword;
     private ProgressDialog pDialog;
@@ -51,6 +52,7 @@ public class LoginActivity extends Activity {
         inputPassword = (EditText) findViewById(R.id.password);
         btnLogin = (Button) findViewById(R.id.btnLogin);
         btnLinkToRegister = (Button) findViewById(R.id.btnLinkToRegisterScreen);
+        btnLinkToSms = (Button) findViewById(R.id.btnLinkToSms);
 
         // Progress dialog
         pDialog = new ProgressDialog(this);
@@ -81,7 +83,15 @@ public class LoginActivity extends Activity {
                 if (!email.isEmpty() && !password.isEmpty()) {
                     // login user
                     checkLogin(email, password);
-                } else {
+                } if (!email.contains("@")){
+                    Toast.makeText(getApplicationContext(),
+                            "Please enter a valid email", Toast.LENGTH_LONG)
+                            .show();
+                } if(password.length()<4){
+                    Toast.makeText(getApplicationContext(),
+                            "Password too short", Toast.LENGTH_LONG)
+                            .show();
+                }else {
                     // Prompt user to enter credentials
                     Toast.makeText(getApplicationContext(),
                             "Please enter email and password!", Toast.LENGTH_LONG)
@@ -97,6 +107,16 @@ public class LoginActivity extends Activity {
             public void onClick(View view) {
                 Intent i = new Intent(getApplicationContext(),
                         RegisterActivity.class);
+                startActivity(i);
+                finish();
+            }
+        });
+
+        btnLinkToSms.setOnClickListener(new View.OnClickListener() {
+
+            public void onClick(View view) {
+                Intent i = new Intent(getApplicationContext(),
+                        sms.class);
                 startActivity(i);
                 finish();
             }
