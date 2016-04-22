@@ -61,7 +61,8 @@
         <service android:name=".activity.BluetoothService" />
 
         <activity android:name=".activity.ContactEmergency" />
-        <activity android:name=".activity.SelectedContact"></activity>
+        <activity android:name=".activity.SelectedContact" />
+        <activity android:name=".activity.EditMessage"></activity>
     </application>
 
 </manifest>
