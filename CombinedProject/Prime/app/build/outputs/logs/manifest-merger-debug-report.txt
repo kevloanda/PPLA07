@@ -59,7 +59,7 @@ MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\user\Documents\GitH
 	android:icon
 		ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:17:9-44
 	android:theme
-		ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:19:9-70
 	android:name
 		ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:15:9-59
 activity#info.ppla07.prime.activity.SplashScreen

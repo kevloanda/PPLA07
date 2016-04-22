@@ -32,20 +32,20 @@
         "source": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
         "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
@@ -132,12 +132,12 @@
         "source": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
