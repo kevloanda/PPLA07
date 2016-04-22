@@ -14,9 +14,11 @@
         android:orientation="vertical" >
 
         <ImageView
+            android:id="@+id/btnBluetooth"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/ic_bluetooth_24dp"
+            android:clickable="true"
             android:layout_gravity="right"/>
         <TextView
             android:id="@+id/welcome"
@@ -35,12 +37,12 @@
             />
 
         <Button
-            android:id="@+id/btnBluetooth"
+            android:id="@+id/btnContact"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dip"
             android:background="@color/btn_bluetooth_bg"
-            android:text="BLUETOOTH"
+            android:text="EMERGENCY CONTACT"
             android:textAllCaps="false"
             android:textColor="@color/white"
             android:textSize="15dp" />

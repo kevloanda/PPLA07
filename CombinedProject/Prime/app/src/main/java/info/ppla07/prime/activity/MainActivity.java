@@ -2,9 +2,14 @@ package info.ppla07.prime.activity;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.database.Cursor;
+import android.net.Uri;
 import android.os.Bundle;
+import android.provider.ContactsContract;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.HashMap;
@@ -18,7 +23,9 @@ public class MainActivity extends Activity {
 	private TextView txtName;
 	private TextView txtEmail;
 	private Button btnLogout;
-	private Button btnBluetooth;
+	private ImageView btnBluetooth;
+	private Button btnContact;
+	private final int PICK_CONTACT = 13;
 
 	private SQLiteHandler db;
 	private SessionManager session;
@@ -30,7 +37,8 @@ public class MainActivity extends Activity {
 
 		txtName = (TextView) findViewById(R.id.welcome);
 		btnLogout = (Button) findViewById(R.id.btnLogout);
-		btnBluetooth = (Button) findViewById(R.id.btnBluetooth);
+		btnBluetooth = (ImageView) findViewById(R.id.btnBluetooth);
+		btnContact = (Button) findViewById(R.id.btnContact);
 
 		// SqLite database handler
 		db = new SQLiteHandler(getApplicationContext());
@@ -68,12 +76,42 @@ public class MainActivity extends Activity {
 				startActivity(intent);
 			}
 		});
+
+		// Contact button click event
+		btnContact.setOnClickListener(new View.OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(Intent.ACTION_PICK, ContactsContract.Contacts.CONTENT_URI);
+				startActivityForResult(intent, PICK_CONTACT);
+			}
+		});
 	}
 
 	/**
 	 * Logging out the user. Will set isLoggedIn flag to false in shared
 	 * preferences Clears the user data from sqlite users table
 	 * */
+
+	@Override
+	public void onActivityResult(int reqCode, int resultCode, Intent data) {
+		super.onActivityResult(reqCode, resultCode, data);
+
+		switch (reqCode) {
+			case (PICK_CONTACT) :
+				if (resultCode == Activity.RESULT_OK) {
+					Uri contactData = data.getData();
+					Cursor c =  getContentResolver().query(contactData, null, null, null, null);
+					if (c.moveToFirst()) {
+						String name = c.getString(c.getColumnIndex(ContactsContract.Contacts.DISPLAY_NAME));
+						Log.d("NGETES", name);
+						// TODO Whatever you want to do with the selected contact name.
+					}
+				}
+				break;
+		}
+	}
+
 	private void logoutUser() {
 		session.setLogin(false);
 

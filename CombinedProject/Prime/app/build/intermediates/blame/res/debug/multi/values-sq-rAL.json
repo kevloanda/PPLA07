@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-sq-rAL\\values-sq-rAL.xml",
+        "outputFile": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-sq-rAL\\values-sq-rAL.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,23 @@
                     "endOffset": 164
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 55,
                         "endColumn": 113,
                         "endOffset": 164
+=======
+                        "startOffset": 237,
+                        "endColumn": 113,
+                        "endOffset": 346
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -30,13 +40,23 @@
                     "endOffset": 272
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 169,
                         "endColumn": 107,
                         "endOffset": 272
+=======
+                        "startOffset": 352,
+                        "endColumn": 107,
+                        "endOffset": 455
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -49,13 +69,23 @@
                     "endOffset": 395
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 277,
                         "endColumn": 122,
                         "endOffset": 395
+=======
+                        "startOffset": 461,
+                        "endColumn": 122,
+                        "endOffset": 579
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -68,13 +98,23 @@
                     "endOffset": 495
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 400,
                         "endColumn": 99,
                         "endOffset": 495
+=======
+                        "startOffset": 585,
+                        "endColumn": 99,
+                        "endOffset": 680
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -87,13 +127,23 @@
                     "endOffset": 607
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 500,
                         "endColumn": 111,
                         "endOffset": 607
+=======
+                        "startOffset": 686,
+                        "endColumn": 111,
+                        "endOffset": 793
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -106,13 +156,23 @@
                     "endOffset": 694
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 612,
                         "endColumn": 86,
                         "endOffset": 694
+=======
+                        "startOffset": 799,
+                        "endColumn": 86,
+                        "endOffset": 881
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -125,13 +185,23 @@
                     "endOffset": 804
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 699,
                         "endColumn": 109,
                         "endOffset": 804
+=======
+                        "startOffset": 887,
+                        "endColumn": 109,
+                        "endOffset": 992
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -144,13 +214,23 @@
                     "endOffset": 927
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 809,
                         "endColumn": 122,
                         "endOffset": 927
+=======
+                        "startOffset": 998,
+                        "endColumn": 122,
+                        "endOffset": 1116
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -163,13 +243,23 @@
                     "endOffset": 1008
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 932,
                         "endColumn": 80,
                         "endOffset": 1008
+=======
+                        "startOffset": 1122,
+                        "endColumn": 80,
+                        "endOffset": 1198
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -182,13 +272,23 @@
                     "endOffset": 1087
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 1013,
                         "endColumn": 78,
                         "endOffset": 1087
+=======
+                        "startOffset": 1204,
+                        "endColumn": 78,
+                        "endOffset": 1278
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -201,13 +301,23 @@
                     "endOffset": 1170
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 1092,
                         "endColumn": 82,
                         "endOffset": 1170
+=======
+                        "startOffset": 1284,
+                        "endColumn": 82,
+                        "endOffset": 1362
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -220,13 +330,23 @@
                     "endOffset": 1276
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 1175,
                         "endColumn": 105,
                         "endOffset": 1276
+=======
+                        "startOffset": 1368,
+                        "endColumn": 105,
+                        "endOffset": 1469
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -239,13 +359,23 @@
                     "endOffset": 1381
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 1281,
                         "endColumn": 104,
                         "endOffset": 1381
+=======
+                        "startOffset": 1475,
+                        "endColumn": 104,
+                        "endOffset": 1575
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -258,13 +388,23 @@
                     "endOffset": 1479
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 1386,
                         "endColumn": 97,
                         "endOffset": 1479
+=======
+                        "startOffset": 1581,
+                        "endColumn": 97,
+                        "endOffset": 1674
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -277,13 +417,23 @@
                     "endOffset": 1585
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 1484,
                         "endColumn": 105,
                         "endOffset": 1585
+=======
+                        "startOffset": 1680,
+                        "endColumn": 105,
+                        "endOffset": 1781
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -296,13 +446,23 @@
                     "endOffset": 1688
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 1590,
                         "endColumn": 102,
                         "endOffset": 1688
+=======
+                        "startOffset": 1787,
+                        "endColumn": 102,
+                        "endOffset": 1885
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -315,13 +475,23 @@
                     "endOffset": 1804
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 1693,
                         "endColumn": 115,
                         "endOffset": 1804
+=======
+                        "startOffset": 1891,
+                        "endColumn": 115,
+                        "endOffset": 2002
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -334,13 +504,23 @@
                     "endOffset": 1935
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 1809,
                         "endColumn": 130,
                         "endOffset": 1935
+=======
+                        "startOffset": 2008,
+                        "endColumn": 130,
+                        "endOffset": 2134
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -353,13 +533,23 @@
                     "endOffset": 2034
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 1940,
                         "endColumn": 98,
                         "endOffset": 2034
+=======
+                        "startOffset": 2140,
+                        "endColumn": 98,
+                        "endOffset": 2234
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -372,20 +562,30 @@
                     "endOffset": 2135
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
+<<<<<<< HEAD
                         "startOffset": 2039,
                         "endColumn": 100,
                         "endOffset": 2135
+=======
+                        "startOffset": 2240,
+                        "endColumn": 100,
+                        "endOffset": 2336
+>>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             }
         ]
     },
     {
-        "outputFile": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-sq-rAL\\values-sq-rAL.xml",
+        "outputFile": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-sq-rAL\\values-sq-rAL.xml",
         "map": [
             {
                 "to": {
@@ -396,7 +596,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -415,7 +615,7 @@
                     "endOffset": 272
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -434,7 +634,7 @@
                     "endOffset": 395
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -453,7 +653,7 @@
                     "endOffset": 495
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -472,7 +672,7 @@
                     "endOffset": 607
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -491,7 +691,7 @@
                     "endOffset": 694
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -510,7 +710,7 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -529,7 +729,7 @@
                     "endOffset": 927
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -548,7 +748,7 @@
                     "endOffset": 1008
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -567,7 +767,7 @@
                     "endOffset": 1087
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -586,7 +786,7 @@
                     "endOffset": 1170
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -605,7 +805,7 @@
                     "endOffset": 1276
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -624,7 +824,7 @@
                     "endOffset": 1381
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -643,7 +843,7 @@
                     "endOffset": 1479
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -662,7 +862,7 @@
                     "endOffset": 1585
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -681,7 +881,7 @@
                     "endOffset": 1688
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -700,7 +900,7 @@
                     "endOffset": 1804
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -719,7 +919,7 @@
                     "endOffset": 1935
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -738,7 +938,7 @@
                     "endOffset": 2034
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -757,7 +957,7 @@
                     "endOffset": 2135
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sq-rAL\\values-sq-rAL.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
