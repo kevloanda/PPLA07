@@ -358,13 +358,13 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 233,
+                        "startOffset": 55,
                         "endColumn": 107,
-                        "endOffset": 336
+                        "endOffset": 158
                     }
                 }
             },
@@ -377,13 +377,13 @@
                     "endOffset": 281
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 341,
+                        "startOffset": 163,
                         "endColumn": 122,
-                        "endOffset": 459
+                        "endOffset": 281
                     }
                 }
             },
@@ -396,13 +396,13 @@
                     "endOffset": 385
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 464,
+                        "startOffset": 286,
                         "endColumn": 103,
-                        "endOffset": 563
+                        "endOffset": 385
                     }
                 }
             },
@@ -415,13 +415,13 @@
                     "endOffset": 493
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 568,
+                        "startOffset": 390,
                         "endColumn": 107,
-                        "endOffset": 671
+                        "endOffset": 493
                     }
                 }
             },
@@ -434,13 +434,13 @@
                     "endOffset": 579
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 676,
+                        "startOffset": 498,
                         "endColumn": 85,
-                        "endOffset": 757
+                        "endOffset": 579
                     }
                 }
             },
@@ -453,13 +453,13 @@
                     "endOffset": 684
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 762,
+                        "startOffset": 584,
                         "endColumn": 104,
-                        "endOffset": 862
+                        "endOffset": 684
                     }
                 }
             },
@@ -472,13 +472,13 @@
                     "endOffset": 803
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 867,
+                        "startOffset": 689,
                         "endColumn": 118,
-                        "endOffset": 981
+                        "endOffset": 803
                     }
                 }
             },
@@ -491,13 +491,13 @@
                     "endOffset": 886
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 986,
+                        "startOffset": 808,
                         "endColumn": 82,
-                        "endOffset": 1064
+                        "endOffset": 886
                     }
                 }
             },
@@ -510,13 +510,13 @@
                     "endOffset": 968
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1069,
+                        "startOffset": 891,
                         "endColumn": 81,
-                        "endOffset": 1146
+                        "endOffset": 968
                     }
                 }
             },
@@ -529,13 +529,13 @@
                     "endOffset": 1055
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1151,
+                        "startOffset": 973,
                         "endColumn": 86,
-                        "endOffset": 1233
+                        "endOffset": 1055
                     }
                 }
             },
@@ -548,13 +548,13 @@
                     "endOffset": 1161
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1238,
+                        "startOffset": 1060,
                         "endColumn": 105,
-                        "endOffset": 1339
+                        "endOffset": 1161
                     }
                 }
             },
@@ -567,13 +567,13 @@
                     "endOffset": 1268
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1344,
+                        "startOffset": 1166,
                         "endColumn": 106,
-                        "endOffset": 1446
+                        "endOffset": 1268
                     }
                 }
             },
@@ -586,13 +586,13 @@
                     "endOffset": 1369
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1451,
+                        "startOffset": 1273,
                         "endColumn": 100,
-                        "endOffset": 1547
+                        "endOffset": 1369
                     }
                 }
             },
@@ -605,13 +605,13 @@
                     "endOffset": 1476
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1552,
+                        "startOffset": 1374,
                         "endColumn": 106,
-                        "endOffset": 1654
+                        "endOffset": 1476
                     }
                 }
             },
@@ -624,13 +624,13 @@
                     "endOffset": 1587
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1659,
+                        "startOffset": 1481,
                         "endColumn": 110,
-                        "endOffset": 1765
+                        "endOffset": 1587
                     }
                 }
             },
@@ -643,13 +643,13 @@
                     "endOffset": 1691
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1770,
+                        "startOffset": 1592,
                         "endColumn": 103,
-                        "endOffset": 1869
+                        "endOffset": 1691
                     }
                 }
             },
@@ -662,13 +662,13 @@
                     "endOffset": 1789
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1874,
+                        "startOffset": 1696,
                         "endColumn": 97,
-                        "endOffset": 1967
+                        "endOffset": 1789
                     }
                 }
             },
@@ -681,13 +681,13 @@
                     "endOffset": 1890
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1972,
+                        "startOffset": 1794,
                         "endColumn": 100,
-                        "endOffset": 2068
+                        "endOffset": 1890
                     }
                 }
             }
