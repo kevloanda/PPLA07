@@ -1,390 +1,5 @@
 [
     {
-        "outputFile": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-bn-rBD\\values-bn-rBD.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 108,
-                    "endOffset": 159
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 233,
-                        "endColumn": 108,
-                        "endOffset": 337
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 164,
-                    "endColumn": 107,
-                    "endOffset": 267
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 342,
-                        "endColumn": 107,
-                        "endOffset": 445
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 272,
-                    "endColumn": 122,
-                    "endOffset": 390
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 450,
-                        "endColumn": 122,
-                        "endOffset": 568
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 395,
-                    "endColumn": 111,
-                    "endOffset": 502
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 573,
-                        "endColumn": 111,
-                        "endOffset": 680
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 507,
-                    "endColumn": 105,
-                    "endOffset": 608
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 685,
-                        "endColumn": 105,
-                        "endOffset": 786
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 613,
-                    "endColumn": 93,
-                    "endOffset": 702
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 791,
-                        "endColumn": 93,
-                        "endOffset": 880
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 707,
-                    "endColumn": 104,
-                    "endOffset": 807
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 885,
-                        "endColumn": 104,
-                        "endOffset": 985
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 812,
-                    "endColumn": 129,
-                    "endOffset": 937
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 990,
-                        "endColumn": 129,
-                        "endOffset": 1115
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 942,
-                    "endColumn": 77,
-                    "endOffset": 1015
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1120,
-                        "endColumn": 77,
-                        "endOffset": 1193
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1020,
-                    "endColumn": 77,
-                    "endOffset": 1093
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1198,
-                        "endColumn": 77,
-                        "endOffset": 1271
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1098,
-                    "endColumn": 86,
-                    "endOffset": 1180
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1276,
-                        "endColumn": 86,
-                        "endOffset": 1358
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1185,
-                    "endColumn": 109,
-                    "endOffset": 1290
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1363,
-                        "endColumn": 109,
-                        "endOffset": 1468
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1295,
-                    "endColumn": 115,
-                    "endOffset": 1406
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1473,
-                        "endColumn": 115,
-                        "endOffset": 1584
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1411,
-                    "endColumn": 106,
-                    "endOffset": 1513
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1589,
-                        "endColumn": 106,
-                        "endOffset": 1691
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1518,
-                    "endColumn": 109,
-                    "endOffset": 1623
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1696,
-                        "endColumn": 109,
-                        "endOffset": 1801
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1628,
-                    "endColumn": 105,
-                    "endOffset": 1729
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1806,
-                        "endColumn": 105,
-                        "endOffset": 1907
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1734,
-                    "endColumn": 109,
-                    "endOffset": 1839
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1912,
-                        "endColumn": 109,
-                        "endOffset": 2017
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1844,
-                    "endColumn": 124,
-                    "endOffset": 1964
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2022,
-                        "endColumn": 124,
-                        "endOffset": 2142
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1969,
-                    "endColumn": 104,
-                    "endOffset": 2069
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2147,
-                        "endColumn": 104,
-                        "endOffset": 2247
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2074,
-                    "endColumn": 100,
-                    "endOffset": 2170
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2252,
-                        "endColumn": 100,
-                        "endOffset": 2348
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-bn-rBD\\values-bn-rBD.xml",
         "map": [
             {
@@ -396,23 +11,13 @@
                     "endOffset": 159
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 55,
                         "endColumn": 108,
                         "endOffset": 159
-=======
-                        "startOffset": 237,
-                        "endColumn": 108,
-                        "endOffset": 341
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -425,23 +30,13 @@
                     "endOffset": 267
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 164,
                         "endColumn": 107,
                         "endOffset": 267
-=======
-                        "startOffset": 347,
-                        "endColumn": 107,
-                        "endOffset": 450
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -454,23 +49,13 @@
                     "endOffset": 390
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 272,
                         "endColumn": 122,
                         "endOffset": 390
-=======
-                        "startOffset": 456,
-                        "endColumn": 122,
-                        "endOffset": 574
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -483,23 +68,13 @@
                     "endOffset": 502
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 395,
                         "endColumn": 111,
                         "endOffset": 502
-=======
-                        "startOffset": 580,
-                        "endColumn": 111,
-                        "endOffset": 687
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -512,23 +87,13 @@
                     "endOffset": 608
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 507,
                         "endColumn": 105,
                         "endOffset": 608
-=======
-                        "startOffset": 693,
-                        "endColumn": 105,
-                        "endOffset": 794
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -541,23 +106,13 @@
                     "endOffset": 702
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 613,
                         "endColumn": 93,
                         "endOffset": 702
-=======
-                        "startOffset": 800,
-                        "endColumn": 93,
-                        "endOffset": 889
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -570,23 +125,13 @@
                     "endOffset": 807
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 707,
                         "endColumn": 104,
                         "endOffset": 807
-=======
-                        "startOffset": 895,
-                        "endColumn": 104,
-                        "endOffset": 995
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -599,23 +144,13 @@
                     "endOffset": 937
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 812,
                         "endColumn": 129,
                         "endOffset": 937
-=======
-                        "startOffset": 1001,
-                        "endColumn": 129,
-                        "endOffset": 1126
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -628,23 +163,13 @@
                     "endOffset": 1015
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 942,
                         "endColumn": 77,
                         "endOffset": 1015
-=======
-                        "startOffset": 1132,
-                        "endColumn": 77,
-                        "endOffset": 1205
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -657,23 +182,13 @@
                     "endOffset": 1093
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1020,
                         "endColumn": 77,
                         "endOffset": 1093
-=======
-                        "startOffset": 1211,
-                        "endColumn": 77,
-                        "endOffset": 1284
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -686,23 +201,13 @@
                     "endOffset": 1180
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1098,
                         "endColumn": 86,
                         "endOffset": 1180
-=======
-                        "startOffset": 1290,
-                        "endColumn": 86,
-                        "endOffset": 1372
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -715,23 +220,13 @@
                     "endOffset": 1290
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1185,
                         "endColumn": 109,
                         "endOffset": 1290
-=======
-                        "startOffset": 1378,
-                        "endColumn": 109,
-                        "endOffset": 1483
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -744,23 +239,13 @@
                     "endOffset": 1406
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1295,
                         "endColumn": 115,
                         "endOffset": 1406
-=======
-                        "startOffset": 1489,
-                        "endColumn": 115,
-                        "endOffset": 1600
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -773,23 +258,13 @@
                     "endOffset": 1513
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1411,
                         "endColumn": 106,
                         "endOffset": 1513
-=======
-                        "startOffset": 1606,
-                        "endColumn": 106,
-                        "endOffset": 1708
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -802,23 +277,13 @@
                     "endOffset": 1623
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1518,
                         "endColumn": 109,
                         "endOffset": 1623
-=======
-                        "startOffset": 1714,
-                        "endColumn": 109,
-                        "endOffset": 1819
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -831,23 +296,13 @@
                     "endOffset": 1729
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1628,
                         "endColumn": 105,
                         "endOffset": 1729
-=======
-                        "startOffset": 1825,
-                        "endColumn": 105,
-                        "endOffset": 1926
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -860,23 +315,13 @@
                     "endOffset": 1839
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1734,
                         "endColumn": 109,
                         "endOffset": 1839
-=======
-                        "startOffset": 1932,
-                        "endColumn": 109,
-                        "endOffset": 2037
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -889,23 +334,13 @@
                     "endOffset": 1964
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1844,
                         "endColumn": 124,
                         "endOffset": 1964
-=======
-                        "startOffset": 2043,
-                        "endColumn": 124,
-                        "endOffset": 2163
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -918,23 +353,13 @@
                     "endOffset": 2069
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1969,
                         "endColumn": 104,
                         "endOffset": 2069
-=======
-                        "startOffset": 2169,
-                        "endColumn": 104,
-                        "endOffset": 2269
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -947,23 +372,13 @@
                     "endOffset": 2170
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 2074,
                         "endColumn": 100,
                         "endOffset": 2170
-=======
-                        "startOffset": 2275,
-                        "endColumn": 100,
-                        "endOffset": 2371
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             }

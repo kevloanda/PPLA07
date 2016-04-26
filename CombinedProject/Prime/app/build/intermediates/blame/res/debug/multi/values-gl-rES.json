@@ -1,390 +1,5 @@
 [
     {
-        "outputFile": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-gl-rES\\values-gl-rES.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 111,
-                    "endOffset": 162
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 233,
-                        "endColumn": 111,
-                        "endOffset": 340
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 167,
-                    "endColumn": 107,
-                    "endOffset": 270
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 345,
-                        "endColumn": 107,
-                        "endOffset": 448
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 275,
-                    "endColumn": 122,
-                    "endOffset": 393
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 453,
-                        "endColumn": 122,
-                        "endOffset": 571
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 398,
-                    "endColumn": 111,
-                    "endOffset": 505
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 576,
-                        "endColumn": 111,
-                        "endOffset": 683
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 510,
-                    "endColumn": 107,
-                    "endOffset": 613
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 688,
-                        "endColumn": 107,
-                        "endOffset": 791
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 618,
-                    "endColumn": 84,
-                    "endOffset": 698
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 796,
-                        "endColumn": 84,
-                        "endOffset": 876
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 703,
-                    "endColumn": 101,
-                    "endOffset": 800
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 881,
-                        "endColumn": 101,
-                        "endOffset": 978
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 805,
-                    "endColumn": 125,
-                    "endOffset": 926
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 983,
-                        "endColumn": 125,
-                        "endOffset": 1104
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 931,
-                    "endColumn": 83,
-                    "endOffset": 1010
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1109,
-                        "endColumn": 83,
-                        "endOffset": 1188
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1015,
-                    "endColumn": 80,
-                    "endOffset": 1091
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1193,
-                        "endColumn": 80,
-                        "endOffset": 1269
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1096,
-                    "endColumn": 81,
-                    "endOffset": 1173
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1274,
-                        "endColumn": 81,
-                        "endOffset": 1351
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1178,
-                    "endColumn": 106,
-                    "endOffset": 1280
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1356,
-                        "endColumn": 106,
-                        "endOffset": 1458
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1285,
-                    "endColumn": 108,
-                    "endOffset": 1389
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1463,
-                        "endColumn": 108,
-                        "endOffset": 1567
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1394,
-                    "endColumn": 98,
-                    "endOffset": 1488
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1572,
-                        "endColumn": 98,
-                        "endOffset": 1666
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1493,
-                    "endColumn": 107,
-                    "endOffset": 1596
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1671,
-                        "endColumn": 107,
-                        "endOffset": 1774
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1601,
-                    "endColumn": 102,
-                    "endOffset": 1699
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1779,
-                        "endColumn": 102,
-                        "endOffset": 1877
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1704,
-                    "endColumn": 106,
-                    "endOffset": 1806
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1882,
-                        "endColumn": 106,
-                        "endOffset": 1984
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1811,
-                    "endColumn": 121,
-                    "endOffset": 1928
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1989,
-                        "endColumn": 121,
-                        "endOffset": 2106
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1933,
-                    "endColumn": 99,
-                    "endOffset": 2028
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2111,
-                        "endColumn": 99,
-                        "endOffset": 2206
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2033,
-                    "endColumn": 100,
-                    "endOffset": 2129
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2211,
-                        "endColumn": 100,
-                        "endOffset": 2307
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-gl-rES\\values-gl-rES.xml",
         "map": [
             {
@@ -396,23 +11,13 @@
                     "endOffset": 162
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 55,
                         "endColumn": 111,
                         "endOffset": 162
-=======
-                        "startOffset": 237,
-                        "endColumn": 111,
-                        "endOffset": 344
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -425,23 +30,13 @@
                     "endOffset": 270
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 167,
                         "endColumn": 107,
                         "endOffset": 270
-=======
-                        "startOffset": 350,
-                        "endColumn": 107,
-                        "endOffset": 453
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -454,23 +49,13 @@
                     "endOffset": 393
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 275,
                         "endColumn": 122,
                         "endOffset": 393
-=======
-                        "startOffset": 459,
-                        "endColumn": 122,
-                        "endOffset": 577
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -483,23 +68,13 @@
                     "endOffset": 505
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 398,
                         "endColumn": 111,
                         "endOffset": 505
-=======
-                        "startOffset": 583,
-                        "endColumn": 111,
-                        "endOffset": 690
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -512,23 +87,13 @@
                     "endOffset": 613
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 510,
                         "endColumn": 107,
                         "endOffset": 613
-=======
-                        "startOffset": 696,
-                        "endColumn": 107,
-                        "endOffset": 799
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -541,23 +106,13 @@
                     "endOffset": 698
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 618,
                         "endColumn": 84,
                         "endOffset": 698
-=======
-                        "startOffset": 805,
-                        "endColumn": 84,
-                        "endOffset": 885
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -570,23 +125,13 @@
                     "endOffset": 800
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 703,
                         "endColumn": 101,
                         "endOffset": 800
-=======
-                        "startOffset": 891,
-                        "endColumn": 101,
-                        "endOffset": 988
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -599,23 +144,13 @@
                     "endOffset": 926
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 805,
                         "endColumn": 125,
                         "endOffset": 926
-=======
-                        "startOffset": 994,
-                        "endColumn": 125,
-                        "endOffset": 1115
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -628,23 +163,13 @@
                     "endOffset": 1010
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 931,
                         "endColumn": 83,
                         "endOffset": 1010
-=======
-                        "startOffset": 1121,
-                        "endColumn": 83,
-                        "endOffset": 1200
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -657,23 +182,13 @@
                     "endOffset": 1091
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1015,
                         "endColumn": 80,
                         "endOffset": 1091
-=======
-                        "startOffset": 1206,
-                        "endColumn": 80,
-                        "endOffset": 1282
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -686,23 +201,13 @@
                     "endOffset": 1173
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1096,
                         "endColumn": 81,
                         "endOffset": 1173
-=======
-                        "startOffset": 1288,
-                        "endColumn": 81,
-                        "endOffset": 1365
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -715,23 +220,13 @@
                     "endOffset": 1280
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1178,
                         "endColumn": 106,
                         "endOffset": 1280
-=======
-                        "startOffset": 1371,
-                        "endColumn": 106,
-                        "endOffset": 1473
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -744,23 +239,13 @@
                     "endOffset": 1389
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1285,
                         "endColumn": 108,
                         "endOffset": 1389
-=======
-                        "startOffset": 1479,
-                        "endColumn": 108,
-                        "endOffset": 1583
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -773,23 +258,13 @@
                     "endOffset": 1488
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1394,
                         "endColumn": 98,
                         "endOffset": 1488
-=======
-                        "startOffset": 1589,
-                        "endColumn": 98,
-                        "endOffset": 1683
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -802,23 +277,13 @@
                     "endOffset": 1596
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1493,
                         "endColumn": 107,
                         "endOffset": 1596
-=======
-                        "startOffset": 1689,
-                        "endColumn": 107,
-                        "endOffset": 1792
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -831,23 +296,13 @@
                     "endOffset": 1699
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1601,
                         "endColumn": 102,
                         "endOffset": 1699
-=======
-                        "startOffset": 1798,
-                        "endColumn": 102,
-                        "endOffset": 1896
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -860,23 +315,13 @@
                     "endOffset": 1806
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1704,
                         "endColumn": 106,
                         "endOffset": 1806
-=======
-                        "startOffset": 1902,
-                        "endColumn": 106,
-                        "endOffset": 2004
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -889,23 +334,13 @@
                     "endOffset": 1928
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1811,
                         "endColumn": 121,
                         "endOffset": 1928
-=======
-                        "startOffset": 2010,
-                        "endColumn": 121,
-                        "endOffset": 2127
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -918,23 +353,13 @@
                     "endOffset": 2028
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 1933,
                         "endColumn": 99,
                         "endOffset": 2028
-=======
-                        "startOffset": 2133,
-                        "endColumn": 99,
-                        "endOffset": 2228
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             },
@@ -947,23 +372,13 @@
                     "endOffset": 2129
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-<<<<<<< HEAD
                         "startOffset": 2033,
                         "endColumn": 100,
                         "endOffset": 2129
-=======
-                        "startOffset": 2234,
-                        "endColumn": 100,
-                        "endOffset": 2330
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
                     }
                 }
             }

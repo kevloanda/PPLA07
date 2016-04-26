@@ -25,7 +25,6 @@ public class MainActivity extends Activity {
 	private Button btnLogout;
 	private ImageView btnBluetooth;
 	private Button btnContact;
-	private final int PICK_CONTACT = 13;
 
 	private SQLiteHandler db;
 	private SessionManager session;
@@ -40,20 +39,22 @@ public class MainActivity extends Activity {
 		btnBluetooth = (ImageView) findViewById(R.id.btnBluetooth);
 		btnContact = (Button) findViewById(R.id.btnContact);
 
-		// SqLite database handler
-		db = new SQLiteHandler(getApplicationContext());
+//		// SqLite database handler
+//		db = new SQLiteHandler(getApplicationContext());
+//
+//		// session manager
+//		session = new SessionManager(getApplicationContext());
+//
+//		if (!session.isLoggedIn()) {
+//			logoutUser();
+//		}
 
-		// session manager
-		session = new SessionManager(getApplicationContext());
+//		// Fetching user details from SQLite
+//		HashMap<String, String> user = db.getUserDetails();
 
-		if (!session.isLoggedIn()) {
-			logoutUser();
-		}
+//		String name = user.get("name");
 
-		// Fetching user details from SQLite
-		HashMap<String, String> user = db.getUserDetails();
-
-		String name = user.get("name");
+		String name = "PRIME";
 
 		// Displaying the user details on the screen
 		txtName.setText("Welcome, " + name);
@@ -82,8 +83,8 @@ public class MainActivity extends Activity {
 
 			@Override
 			public void onClick(View v) {
-				Intent intent = new Intent(Intent.ACTION_PICK, ContactsContract.Contacts.CONTENT_URI);
-				startActivityForResult(intent, PICK_CONTACT);
+				Intent intent = new Intent(MainActivity.this, ContactEmergency.class);
+				startActivity(intent);
 			}
 		});
 	}
@@ -92,25 +93,6 @@ public class MainActivity extends Activity {
 	 * Logging out the user. Will set isLoggedIn flag to false in shared
 	 * preferences Clears the user data from sqlite users table
 	 * */
-
-	@Override
-	public void onActivityResult(int reqCode, int resultCode, Intent data) {
-		super.onActivityResult(reqCode, resultCode, data);
-
-		switch (reqCode) {
-			case (PICK_CONTACT) :
-				if (resultCode == Activity.RESULT_OK) {
-					Uri contactData = data.getData();
-					Cursor c =  getContentResolver().query(contactData, null, null, null, null);
-					if (c.moveToFirst()) {
-						String name = c.getString(c.getColumnIndex(ContactsContract.Contacts.DISPLAY_NAME));
-						Log.d("NGETES", name);
-						// TODO Whatever you want to do with the selected contact name.
-					}
-				}
-				break;
-		}
-	}
 
 	private void logoutUser() {
 		session.setLogin(false);
