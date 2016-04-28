@@ -58,9 +58,9 @@ public class BluetoothActivity extends Activity {
         // session manager
         session = new SessionManager(getApplicationContext());
 
-        if (!session.isLoggedIn()) {
+        /*if (!session.isLoggedIn()) {
             logoutUser();
-        }
+        }*/
 
         listViewPairedDevice = (ListView)findViewById(R.id.pairedlist);
         textStatus = (TextView) findViewById(R.id.status);

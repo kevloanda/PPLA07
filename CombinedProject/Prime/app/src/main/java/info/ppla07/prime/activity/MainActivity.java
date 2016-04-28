@@ -32,21 +32,21 @@ public class MainActivity extends Activity {
 		btnLogout = (Button) findViewById(R.id.btnLogout);
 		btnBluetooth = (Button) findViewById(R.id.btnBluetooth);
 
-		// SqLite database handler
-		db = new SQLiteHandler(getApplicationContext());
-
-		// session manager
-		session = new SessionManager(getApplicationContext());
-
-		if (!session.isLoggedIn()) {
-			logoutUser();
-		}
-
-		// Fetching user details from SQLite
-		HashMap<String, String> user = db.getUserDetails();
-
-		String name = user.get("name");
-
+//		// SqLite database handler
+//		db = new SQLiteHandler(getApplicationContext());
+//
+//		// session manager
+//		session = new SessionManager(getApplicationContext());
+//
+//		if (!session.isLoggedIn()) {
+//			logoutUser();
+//		}
+//
+//		// Fetching user details from SQLite
+//		HashMap<String, String> user = db.getUserDetails();
+//
+//		String name = user.get("name");
+		String name = "Ardhito";
 		// Displaying the user details on the screen
 		txtName.setText("Welcome, " + name);
 
