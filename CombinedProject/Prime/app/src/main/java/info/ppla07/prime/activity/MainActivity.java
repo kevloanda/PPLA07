@@ -24,6 +24,7 @@ public class MainActivity extends Activity {
 	private TextView txtEmail;
 	private Button btnLogout;
 	private ImageView btnBluetooth;
+	private ImageView btnSetting;
 	private Button btnContact;
 	private final int PICK_CONTACT = 13;
 
@@ -38,25 +39,26 @@ public class MainActivity extends Activity {
 		txtName = (TextView) findViewById(R.id.welcome);
 		btnLogout = (Button) findViewById(R.id.btnLogout);
 		btnBluetooth = (ImageView) findViewById(R.id.btnBluetooth);
+		btnSetting = (ImageView) findViewById(R.id.btnSetting);
 		btnContact = (Button) findViewById(R.id.btnContact);
 
-		// SqLite database handler
-		db = new SQLiteHandler(getApplicationContext());
-
-		// session manager
-		session = new SessionManager(getApplicationContext());
-
-		if (!session.isLoggedIn()) {
-			logoutUser();
-		}
-
-		// Fetching user details from SQLite
-		HashMap<String, String> user = db.getUserDetails();
-
-		String name = user.get("name");
+//		// SqLite database handler
+//		db = new SQLiteHandler(getApplicationContext());
+//
+//		// session manager
+//		session = new SessionManager(getApplicationContext());
+//
+//		if (!session.isLoggedIn()) {
+//			logoutUser();
+//		}
+//
+//		// Fetching user details from SQLite
+//		HashMap<String, String> user = db.getUserDetails();
+//
+//		String name = user.get("name");
 
 		// Displaying the user details on the screen
-		txtName.setText("Welcome, " + name);
+		txtName.setText("Welcome, " + "Ira");
 
 		// Logout button click event
 		btnLogout.setOnClickListener(new View.OnClickListener() {
@@ -84,6 +86,16 @@ public class MainActivity extends Activity {
 			public void onClick(View v) {
 				Intent intent = new Intent(Intent.ACTION_PICK, ContactsContract.Contacts.CONTENT_URI);
 				startActivityForResult(intent, PICK_CONTACT);
+			}
+		});
+
+		// Contact button click event
+		btnSetting.setOnClickListener(new View.OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(MainActivity.this, SettingsActivity.class);
+				startActivity(intent);
 			}
 		});
 	}

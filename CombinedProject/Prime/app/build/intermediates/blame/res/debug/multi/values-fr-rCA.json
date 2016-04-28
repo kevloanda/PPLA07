@@ -1,590 +1,5 @@
 [
     {
-        "outputFile": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 110,
-                    "endOffset": 161
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 55,
-                        "endColumn": 110,
-                        "endOffset": 161
-=======
-                        "startOffset": 237,
-                        "endColumn": 110,
-                        "endOffset": 343
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 166,
-                    "endColumn": 107,
-                    "endOffset": 269
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 166,
-                        "endColumn": 107,
-                        "endOffset": 269
-=======
-                        "startOffset": 349,
-                        "endColumn": 107,
-                        "endOffset": 452
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 274,
-                    "endColumn": 122,
-                    "endOffset": 392
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 274,
-                        "endColumn": 122,
-                        "endOffset": 392
-=======
-                        "startOffset": 458,
-                        "endColumn": 122,
-                        "endOffset": 576
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 397,
-                    "endColumn": 114,
-                    "endOffset": 507
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 397,
-                        "endColumn": 114,
-                        "endOffset": 507
-=======
-                        "startOffset": 582,
-                        "endColumn": 114,
-                        "endOffset": 692
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 512,
-                    "endColumn": 110,
-                    "endOffset": 618
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 512,
-                        "endColumn": 110,
-                        "endOffset": 618
-=======
-                        "startOffset": 698,
-                        "endColumn": 110,
-                        "endOffset": 804
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 623,
-                    "endColumn": 86,
-                    "endOffset": 705
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 623,
-                        "endColumn": 86,
-                        "endOffset": 705
-=======
-                        "startOffset": 810,
-                        "endColumn": 86,
-                        "endOffset": 892
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 710,
-                    "endColumn": 115,
-                    "endOffset": 821
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 710,
-                        "endColumn": 115,
-                        "endOffset": 821
-=======
-                        "startOffset": 898,
-                        "endColumn": 115,
-                        "endOffset": 1009
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 826,
-                    "endColumn": 129,
-                    "endOffset": 951
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 826,
-                        "endColumn": 129,
-                        "endOffset": 951
-=======
-                        "startOffset": 1015,
-                        "endColumn": 129,
-                        "endOffset": 1140
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 956,
-                    "endColumn": 82,
-                    "endOffset": 1034
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 956,
-                        "endColumn": 82,
-                        "endOffset": 1034
-=======
-                        "startOffset": 1146,
-                        "endColumn": 82,
-                        "endOffset": 1224
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1039,
-                    "endColumn": 79,
-                    "endOffset": 1114
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 1039,
-                        "endColumn": 79,
-                        "endOffset": 1114
-=======
-                        "startOffset": 1230,
-                        "endColumn": 79,
-                        "endOffset": 1305
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1119,
-                    "endColumn": 95,
-                    "endOffset": 1210
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 1119,
-                        "endColumn": 95,
-                        "endOffset": 1210
-=======
-                        "startOffset": 1311,
-                        "endColumn": 95,
-                        "endOffset": 1402
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1215,
-                    "endColumn": 109,
-                    "endOffset": 1320
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 1215,
-                        "endColumn": 109,
-                        "endOffset": 1320
-=======
-                        "startOffset": 1408,
-                        "endColumn": 109,
-                        "endOffset": 1513
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1325,
-                    "endColumn": 111,
-                    "endOffset": 1432
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 1325,
-                        "endColumn": 111,
-                        "endOffset": 1432
-=======
-                        "startOffset": 1519,
-                        "endColumn": 111,
-                        "endOffset": 1626
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1437,
-                    "endColumn": 102,
-                    "endOffset": 1535
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 1437,
-                        "endColumn": 102,
-                        "endOffset": 1535
-=======
-                        "startOffset": 1632,
-                        "endColumn": 102,
-                        "endOffset": 1730
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1540,
-                    "endColumn": 110,
-                    "endOffset": 1646
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 1540,
-                        "endColumn": 110,
-                        "endOffset": 1646
-=======
-                        "startOffset": 1736,
-                        "endColumn": 110,
-                        "endOffset": 1842
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1651,
-                    "endColumn": 106,
-                    "endOffset": 1753
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 1651,
-                        "endColumn": 106,
-                        "endOffset": 1753
-=======
-                        "startOffset": 1848,
-                        "endColumn": 106,
-                        "endOffset": 1950
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1758,
-                    "endColumn": 101,
-                    "endOffset": 1855
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 1758,
-                        "endColumn": 101,
-                        "endOffset": 1855
-=======
-                        "startOffset": 1956,
-                        "endColumn": 101,
-                        "endOffset": 2053
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1860,
-                    "endColumn": 121,
-                    "endOffset": 1977
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 1860,
-                        "endColumn": 121,
-                        "endOffset": 1977
-=======
-                        "startOffset": 2059,
-                        "endColumn": 121,
-                        "endOffset": 2176
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1982,
-                    "endColumn": 98,
-                    "endOffset": 2076
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 1982,
-                        "endColumn": 98,
-                        "endOffset": 2076
-=======
-                        "startOffset": 2182,
-                        "endColumn": 98,
-                        "endOffset": 2276
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2081,
-                    "endColumn": 100,
-                    "endOffset": 2177
-                },
-                "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
-=======
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-<<<<<<< HEAD
-                        "startOffset": 2081,
-                        "endColumn": 100,
-                        "endOffset": 2177
-=======
-                        "startOffset": 2282,
-                        "endColumn": 100,
-                        "endOffset": 2378
->>>>>>> 57e4b900b6105c53aa799732ad3fb5b2aeb16e48
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
         "map": [
             {
@@ -596,13 +11,13 @@
                     "endOffset": 161
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 233,
+                        "startOffset": 55,
                         "endColumn": 110,
-                        "endOffset": 339
+                        "endOffset": 161
                     }
                 }
             },
@@ -615,13 +30,13 @@
                     "endOffset": 269
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 344,
+                        "startOffset": 166,
                         "endColumn": 107,
-                        "endOffset": 447
+                        "endOffset": 269
                     }
                 }
             },
@@ -634,13 +49,13 @@
                     "endOffset": 392
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 452,
+                        "startOffset": 274,
                         "endColumn": 122,
-                        "endOffset": 570
+                        "endOffset": 392
                     }
                 }
             },
@@ -653,13 +68,13 @@
                     "endOffset": 507
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 575,
+                        "startOffset": 397,
                         "endColumn": 114,
-                        "endOffset": 685
+                        "endOffset": 507
                     }
                 }
             },
@@ -672,13 +87,13 @@
                     "endOffset": 618
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 690,
+                        "startOffset": 512,
                         "endColumn": 110,
-                        "endOffset": 796
+                        "endOffset": 618
                     }
                 }
             },
@@ -691,13 +106,13 @@
                     "endOffset": 705
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 801,
+                        "startOffset": 623,
                         "endColumn": 86,
-                        "endOffset": 883
+                        "endOffset": 705
                     }
                 }
             },
@@ -710,13 +125,13 @@
                     "endOffset": 821
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 888,
+                        "startOffset": 710,
                         "endColumn": 115,
-                        "endOffset": 999
+                        "endOffset": 821
                     }
                 }
             },
@@ -729,13 +144,13 @@
                     "endOffset": 951
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1004,
+                        "startOffset": 826,
                         "endColumn": 129,
-                        "endOffset": 1129
+                        "endOffset": 951
                     }
                 }
             },
@@ -748,13 +163,13 @@
                     "endOffset": 1034
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1134,
+                        "startOffset": 956,
                         "endColumn": 82,
-                        "endOffset": 1212
+                        "endOffset": 1034
                     }
                 }
             },
@@ -767,13 +182,13 @@
                     "endOffset": 1114
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1217,
+                        "startOffset": 1039,
                         "endColumn": 79,
-                        "endOffset": 1292
+                        "endOffset": 1114
                     }
                 }
             },
@@ -786,13 +201,13 @@
                     "endOffset": 1210
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1297,
+                        "startOffset": 1119,
                         "endColumn": 95,
-                        "endOffset": 1388
+                        "endOffset": 1210
                     }
                 }
             },
@@ -805,13 +220,13 @@
                     "endOffset": 1320
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1393,
+                        "startOffset": 1215,
                         "endColumn": 109,
-                        "endOffset": 1498
+                        "endOffset": 1320
                     }
                 }
             },
@@ -824,13 +239,13 @@
                     "endOffset": 1432
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1503,
+                        "startOffset": 1325,
                         "endColumn": 111,
-                        "endOffset": 1610
+                        "endOffset": 1432
                     }
                 }
             },
@@ -843,13 +258,13 @@
                     "endOffset": 1535
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1615,
+                        "startOffset": 1437,
                         "endColumn": 102,
-                        "endOffset": 1713
+                        "endOffset": 1535
                     }
                 }
             },
@@ -862,13 +277,13 @@
                     "endOffset": 1646
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1718,
+                        "startOffset": 1540,
                         "endColumn": 110,
-                        "endOffset": 1824
+                        "endOffset": 1646
                     }
                 }
             },
@@ -881,13 +296,13 @@
                     "endOffset": 1753
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1829,
+                        "startOffset": 1651,
                         "endColumn": 106,
-                        "endOffset": 1931
+                        "endOffset": 1753
                     }
                 }
             },
@@ -900,13 +315,13 @@
                     "endOffset": 1855
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1936,
+                        "startOffset": 1758,
                         "endColumn": 101,
-                        "endOffset": 2033
+                        "endOffset": 1855
                     }
                 }
             },
@@ -919,13 +334,13 @@
                     "endOffset": 1977
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2038,
+                        "startOffset": 1860,
                         "endColumn": 121,
-                        "endOffset": 2155
+                        "endOffset": 1977
                     }
                 }
             },
@@ -938,13 +353,13 @@
                     "endOffset": 2076
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2160,
+                        "startOffset": 1982,
                         "endColumn": 98,
-                        "endOffset": 2254
+                        "endOffset": 2076
                     }
                 }
             },
@@ -957,13 +372,13 @@
                     "endOffset": 2177
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2259,
+                        "startOffset": 2081,
                         "endColumn": 100,
-                        "endOffset": 2355
+                        "endOffset": 2177
                     }
                 }
             }
