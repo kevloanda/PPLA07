@@ -26,7 +26,6 @@ public class MainActivity extends Activity {
 	private ImageView btnBluetooth;
 	private ImageView btnSetting;
 	private Button btnContact;
-	private final int PICK_CONTACT = 13;
 
 	private SQLiteHandler db;
 	private SessionManager session;
@@ -51,11 +50,21 @@ public class MainActivity extends Activity {
 //		if (!session.isLoggedIn()) {
 //			logoutUser();
 //		}
+<<<<<<< HEAD
 //
 //		// Fetching user details from SQLite
 //		HashMap<String, String> user = db.getUserDetails();
 //
 //		String name = user.get("name");
+=======
+
+//		// Fetching user details from SQLite
+//		HashMap<String, String> user = db.getUserDetails();
+
+//		String name = user.get("name");
+
+		String name = "PRIME";
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
 
 		// Displaying the user details on the screen
 		txtName.setText("Welcome, " + "Ira");
@@ -84,8 +93,8 @@ public class MainActivity extends Activity {
 
 			@Override
 			public void onClick(View v) {
-				Intent intent = new Intent(Intent.ACTION_PICK, ContactsContract.Contacts.CONTENT_URI);
-				startActivityForResult(intent, PICK_CONTACT);
+				Intent intent = new Intent(MainActivity.this, ContactEmergency.class);
+				startActivity(intent);
 			}
 		});
 
@@ -104,25 +113,6 @@ public class MainActivity extends Activity {
 	 * Logging out the user. Will set isLoggedIn flag to false in shared
 	 * preferences Clears the user data from sqlite users table
 	 * */
-
-	@Override
-	public void onActivityResult(int reqCode, int resultCode, Intent data) {
-		super.onActivityResult(reqCode, resultCode, data);
-
-		switch (reqCode) {
-			case (PICK_CONTACT) :
-				if (resultCode == Activity.RESULT_OK) {
-					Uri contactData = data.getData();
-					Cursor c =  getContentResolver().query(contactData, null, null, null, null);
-					if (c.moveToFirst()) {
-						String name = c.getString(c.getColumnIndex(ContactsContract.Contacts.DISPLAY_NAME));
-						Log.d("NGETES", name);
-						// TODO Whatever you want to do with the selected contact name.
-					}
-				}
-				break;
-		}
-	}
 
 	private void logoutUser() {
 		session.setLogin(false);

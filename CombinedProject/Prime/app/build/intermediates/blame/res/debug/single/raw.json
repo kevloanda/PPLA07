@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test.mp3",
         "source": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\raw\\test.mp3"
+=======
+        "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test.mp3",
+        "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\src\\main\\res\\raw\\test.mp3"
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
     }
 ]

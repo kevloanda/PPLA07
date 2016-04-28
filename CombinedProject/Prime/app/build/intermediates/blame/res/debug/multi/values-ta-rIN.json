@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-ta-rIN\\values-ta-rIN.xml",
+=======
+        "outputFile": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-ta-rIN\\values-ta-rIN.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 164
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+=======
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +38,7 @@
                     "endOffset": 272
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +57,7 @@
                     "endOffset": 395
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +76,7 @@
                     "endOffset": 500
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +95,7 @@
                     "endOffset": 615
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +114,7 @@
                     "endOffset": 704
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +133,7 @@
                     "endOffset": 811
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +152,7 @@
                     "endOffset": 937
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +171,7 @@
                     "endOffset": 1018
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +190,7 @@
                     "endOffset": 1098
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +209,7 @@
                     "endOffset": 1180
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +228,7 @@
                     "endOffset": 1282
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +247,7 @@
                     "endOffset": 1386
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +266,7 @@
                     "endOffset": 1483
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +285,7 @@
                     "endOffset": 1593
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +304,7 @@
                     "endOffset": 1695
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +323,7 @@
                     "endOffset": 1802
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +342,7 @@
                     "endOffset": 1921
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +361,7 @@
                     "endOffset": 2021
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -372,7 +380,7 @@
                     "endOffset": 2122
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

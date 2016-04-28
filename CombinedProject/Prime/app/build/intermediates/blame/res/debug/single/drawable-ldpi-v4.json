@@ -1,10 +1,15 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_settings_24dp.png",
         "source": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_settings_24dp.png"
     },
     {
         "merged": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_bluetooth_24dp.png",
         "source": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_bluetooth_24dp.png"
+=======
+        "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_bluetooth_24dp.png",
+        "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_bluetooth_24dp.png"
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
     }
 ]
