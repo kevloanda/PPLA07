@@ -1,6 +1,7 @@
 package info.ppla07.prime.activity;
 
 import android.app.Activity;
+import android.content.ContentResolver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -34,7 +35,7 @@ public class ContactEmergency extends Activity {
         listView= (ListView) findViewById(R.id.listView);
 
         strings = new ArrayList<String>();
-        strings.add("Select Contact");
+        strings.add("Add Contact");
         strings.add("Selected Contact");
         strings.add("Edit Message");
 
@@ -56,7 +57,7 @@ public class ContactEmergency extends Activity {
                     case 1:  Intent activitySelectedContact = new Intent(ContactEmergency.this, SelectedContact.class);
                         startActivity(activitySelectedContact);
                         break;
-                    case 2:  Intent activityEditMessage = new Intent(ContactEmergency.this, SelectedContact.class);
+                    case 2:  Intent activityEditMessage = new Intent(ContactEmergency.this, EditMessage.class);
                         startActivity(activityEditMessage);
                         break;
                 }
@@ -75,17 +76,27 @@ public class ContactEmergency extends Activity {
                     Cursor c =  getContentResolver().query(contactData, null, null, null, null);
                     if (c.moveToFirst()) {
                         String name = c.getString(c.getColumnIndex(ContactsContract.Contacts.DISPLAY_NAME));
+                        ContentResolver cr = getContentResolver();
+                        String contactId = c.getString(c.getColumnIndex(ContactsContract.Contacts._ID));
+                        Cursor phones = cr.query(ContactsContract.CommonDataKinds.Phone.CONTENT_URI, null,
+                                ContactsContract.CommonDataKinds.Phone.CONTACT_ID + " = " + contactId, null, null);
+                        while (phones.moveToNext()) {
+                            String number = phones.getString(phones.getColumnIndex(ContactsContract.CommonDataKinds.Phone.NUMBER));
+                            int type = phones.getInt(phones.getColumnIndex(ContactsContract.CommonDataKinds.Phone.TYPE));
+                            switch (type) {
+                                case ContactsContract.CommonDataKinds.Phone.TYPE_MOBILE:
+                                    SharedPreferences sharedpreferences = getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
+                                    SharedPreferences.Editor editor = sharedpreferences.edit();
+                                    editor.putString("EmergencyContactsNumbers", sharedpreferences.getString("EmergencyContactsNumbers", "") + number + ";");
+                                    editor.commit();
+                                    break;
+                            }
+                        }
+                        phones.close();
                         SharedPreferences sharedpreferences = getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
-                        if(sharedpreferences.getString("EmergencyContacts", "").equals("")) {
-                            SharedPreferences.Editor editor = sharedpreferences.edit();
-                            editor.putString("EmergencyContacts", name);
-                            editor.commit();
-                        }
-                        else {
-                            SharedPreferences.Editor editor = sharedpreferences.edit();
-                            editor.putString("EmergencyContact", sharedpreferences.getString("EmergencyContacts", "") + name);
-                            editor.commit();
-                        }
+                        SharedPreferences.Editor editor = sharedpreferences.edit();
+                        editor.putString("EmergencyContactNames", sharedpreferences.getString("EmergencyContactsNames", "") + name + ";");
+                        editor.commit();
                     }
                 }
                 break;

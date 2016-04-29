@@ -63,6 +63,7 @@
 
         <activity android:name="info.ppla07.prime.activity.ContactEmergency" />
         <activity android:name="info.ppla07.prime.activity.SelectedContact" />
+        <activity android:name="info.ppla07.prime.activity.EditMessage" />
     </application>
 
 </manifest>
