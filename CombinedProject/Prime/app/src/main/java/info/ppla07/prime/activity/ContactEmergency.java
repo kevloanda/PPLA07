@@ -52,7 +52,7 @@ public class ContactEmergency extends Activity {
                 switch( position )
                 {
                     case 0: Intent intent = new Intent(Intent.ACTION_PICK, ContactsContract.Contacts.CONTENT_URI);
-				        startActivityForResult(intent, PICK_CONTACT);
+                        startActivityForResult(intent, PICK_CONTACT);
                         break;
                     case 1:  Intent activitySelectedContact = new Intent(ContactEmergency.this, SelectedContact.class);
                         startActivity(activitySelectedContact);

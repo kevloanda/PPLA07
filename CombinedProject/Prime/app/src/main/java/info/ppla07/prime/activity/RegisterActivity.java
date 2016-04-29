@@ -75,17 +75,41 @@ public class RegisterActivity extends Activity {
 
         // Register Button Click event
         btnRegister.setOnClickListener(new View.OnClickListener() {
+
             public void onClick(View view) {
                 String name = inputFullName.getText().toString().trim();
                 String email = inputEmail.getText().toString().trim();
                 String password = inputPassword.getText().toString().trim();
 
-                if (!name.isEmpty() && !email.isEmpty() && !password.isEmpty()) {
+                boolean isEmailValid = true;
+                boolean isPasswordValid = true;
+                boolean isNameValid = true;
+
+                if (!email.contains("@")){
+                    isEmailValid = false;
+                }
+                if (password.length()<4){
+                    isPasswordValid = false;
+                }
+                if (name.length()>20){
+                    isNameValid = false;
+                }
+
+                if (!name.isEmpty() && !email.isEmpty() && !password.isEmpty() && isEmailValid && isNameValid && isPasswordValid) {
                     registerUser(name, email, password);
-                } else {
+                } if (!isNameValid){
                     Toast.makeText(getApplicationContext(),
-                            "Please enter your details!", Toast.LENGTH_LONG)
+                            "Username too long", Toast.LENGTH_LONG)
                             .show();
+                }if (!isEmailValid){
+                    Toast.makeText(getApplicationContext(),
+                            "Invalid Email", Toast.LENGTH_LONG)
+                            .show();
+                }if (!isPasswordValid){
+                    Toast.makeText(getApplicationContext(),
+                            "Password too short", Toast.LENGTH_LONG)
+                            .show();
+                }else {
                 }
             }
         });

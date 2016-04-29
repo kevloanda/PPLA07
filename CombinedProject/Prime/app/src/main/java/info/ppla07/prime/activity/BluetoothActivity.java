@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.Set;
 import java.util.UUID;
 
-import info.ppla07 .prime.R;
+import info.ppla07.prime.R;
 import info.ppla07.prime.helper.SQLiteHandler;
 import info.ppla07.prime.helper.SessionManager;
 
@@ -52,15 +52,15 @@ public class BluetoothActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bluetooth);
 
-//        // SqLite database handler
-//        db = new SQLiteHandler(getApplicationContext());
-//
-//        // session manager
-//        session = new SessionManager(getApplicationContext());
-//
-//        if (!session.isLoggedIn()) {
-//            logoutUser();
-//        }
+        // SqLite database handler
+        db = new SQLiteHandler(getApplicationContext());
+
+        // session manager
+        session = new SessionManager(getApplicationContext());
+
+        if (!session.isLoggedIn()) {
+            logoutUser();
+        }
 
         listViewPairedDevice = (ListView)findViewById(R.id.pairedlist);
         textStatus = (TextView) findViewById(R.id.status);
