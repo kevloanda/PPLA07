@@ -8,6 +8,8 @@ import android.widget.Button;
 
 import info.ppla07.prime.R;
 
+import info.ppla07.prime.R;
+
 public class EditMessage extends Activity {
 
     private Button btnMessage;

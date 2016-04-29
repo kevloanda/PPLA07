@@ -24,6 +24,7 @@ public class MainActivity extends Activity {
 	private TextView txtEmail;
 	private Button btnLogout;
 	private ImageView btnBluetooth;
+	private ImageView btnSetting;
 	private Button btnContact;
 
 	private SQLiteHandler db;
@@ -37,6 +38,7 @@ public class MainActivity extends Activity {
 		txtName = (TextView) findViewById(R.id.welcome);
 		btnLogout = (Button) findViewById(R.id.btnLogout);
 		btnBluetooth = (ImageView) findViewById(R.id.btnBluetooth);
+		btnSetting = (ImageView) findViewById(R.id.btnSetting);
 		btnContact = (Button) findViewById(R.id.btnContact);
 
 //		// SqLite database handler
@@ -48,6 +50,13 @@ public class MainActivity extends Activity {
 //		if (!session.isLoggedIn()) {
 //			logoutUser();
 //		}
+<<<<<<< HEAD
+//
+//		// Fetching user details from SQLite
+//		HashMap<String, String> user = db.getUserDetails();
+//
+//		String name = user.get("name");
+=======
 
 //		// Fetching user details from SQLite
 //		HashMap<String, String> user = db.getUserDetails();
@@ -55,9 +64,10 @@ public class MainActivity extends Activity {
 //		String name = user.get("name");
 
 		String name = "PRIME";
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
 
 		// Displaying the user details on the screen
-		txtName.setText("Welcome, " + name);
+		txtName.setText("Welcome, " + "Ira");
 
 		// Logout button click event
 		btnLogout.setOnClickListener(new View.OnClickListener() {
@@ -84,6 +94,16 @@ public class MainActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				Intent intent = new Intent(MainActivity.this, ContactEmergency.class);
+				startActivity(intent);
+			}
+		});
+
+		// Contact button click event
+		btnSetting.setOnClickListener(new View.OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(MainActivity.this, SettingsActivity.class);
 				startActivity(intent);
 			}
 		});

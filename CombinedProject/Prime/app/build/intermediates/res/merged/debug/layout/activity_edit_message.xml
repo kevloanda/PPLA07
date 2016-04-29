@@ -22,7 +22,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Submit"
+<<<<<<< HEAD
         android:id="@+id/btnMessage"
+=======
+        android:id="@+id/button"
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 

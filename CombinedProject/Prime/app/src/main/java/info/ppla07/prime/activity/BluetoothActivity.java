@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.Set;
 import java.util.UUID;
 
-import info.ppla07.prime.R;
+import info.ppla07 .prime.R;
 import info.ppla07.prime.helper.SQLiteHandler;
 import info.ppla07.prime.helper.SessionManager;
 

@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+=======
         "outputFile": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
         "map": [
             {
                 "to": {
@@ -12,7 +16,11 @@
                     "endOffset": 198
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\values-v14\\styles.xml",
+=======
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\src\\main\\res\\values-v14\\styles.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -33,7 +41,11 @@
                     "endOffset": 474
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+=======
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -53,7 +65,11 @@
                     "endOffset": 545
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+=======
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -72,7 +88,11 @@
                     "endOffset": 628
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+=======
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -92,7 +112,11 @@
                     "endOffset": 1038
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+=======
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -113,7 +137,11 @@
                     "endOffset": 1460
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+=======
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -133,7 +161,11 @@
                     "endOffset": 1580
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+=======
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -152,7 +184,11 @@
                     "endOffset": 1643
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+=======
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -172,7 +208,11 @@
                     "endOffset": 1797
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+=======
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -192,7 +232,11 @@
                     "endOffset": 1860
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+=======
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -211,7 +255,11 @@
                     "endOffset": 1992
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+=======
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,

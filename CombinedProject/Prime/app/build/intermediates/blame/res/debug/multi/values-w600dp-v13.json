@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+=======
         "outputFile": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 114
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
+=======
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 169
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
+=======
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
+>>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
