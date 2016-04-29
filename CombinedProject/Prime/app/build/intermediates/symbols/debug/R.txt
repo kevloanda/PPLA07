@@ -605,8 +605,12 @@ int drawable ic_sync_black_24dp 0x7f020052
 int drawable logosplash 0x7f020053
 int drawable maskothalf 0x7f020054
 int drawable notification_template_icon_bg 0x7f020055
+<<<<<<< HEAD
+int id action0 0x7f0e0083
+=======
 int id action0 0x7f0e0081
 >>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int id action_bar 0x7f0e005a
 int id action_bar_activity_content 0x7f0e0000
 int id action_bar_container 0x7f0e0059
@@ -616,10 +620,14 @@ int id action_bar_subtitle 0x7f0e003b
 int id action_bar_title 0x7f0e003a
 int id action_context_bar 0x7f0e005b
 <<<<<<< HEAD
+int id action_divider 0x7f0e0087
+=======
+<<<<<<< HEAD
 int id action_divider 0x7f0e0088
 =======
 int id action_divider 0x7f0e0085
 >>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int id action_menu_divider 0x7f0e0002
 int id action_menu_presenter 0x7f0e0003
 int id action_mode_bar 0x7f0e0057
@@ -630,6 +638,18 @@ int id alertTitle 0x7f0e0049
 int id always 0x7f0e0033
 int id beginning 0x7f0e0031
 int id bottom 0x7f0e001d
+<<<<<<< HEAD
+int id btnBluetooth 0x7f0e0072
+int id btnContact 0x7f0e0074
+int id btnLinkToLoginScreen 0x7f0e0078
+int id btnLinkToRegisterScreen 0x7f0e0071
+int id btnLogin 0x7f0e0070
+int id btnLogout 0x7f0e0075
+int id btnMessage 0x7f0e006d
+int id btnRegister 0x7f0e0077
+int id buttonPanel 0x7f0e0044
+int id cancel_action 0x7f0e0084
+=======
 <<<<<<< HEAD
 int id btnBluetooth 0x7f0e0072
 int id btnContact 0x7f0e0075
@@ -653,15 +673,20 @@ int id btnRegister 0x7f0e0075
 int id buttonPanel 0x7f0e0044
 int id cancel_action 0x7f0e0082
 >>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int id center 0x7f0e001e
 int id center_horizontal 0x7f0e001f
 int id center_vertical 0x7f0e0020
 int id checkbox 0x7f0e0052
 <<<<<<< HEAD
+int id chronometer 0x7f0e008a
+=======
+<<<<<<< HEAD
 int id chronometer 0x7f0e008b
 =======
 int id chronometer 0x7f0e0088
 >>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int id clip_horizontal 0x7f0e002c
 int id clip_vertical 0x7f0e002d
 int id collapseActionView 0x7f0e0034
@@ -670,6 +695,14 @@ int id custom 0x7f0e0050
 int id customPanel 0x7f0e004f
 int id decor_content_parent 0x7f0e0058
 int id default_activity_button 0x7f0e0040
+<<<<<<< HEAD
+int id delete_btn 0x7f0e0091
+int id design_bottom_sheet 0x7f0e007b
+int id design_menu_item_action_area 0x7f0e0082
+int id design_menu_item_action_area_stub 0x7f0e0081
+int id design_menu_item_text 0x7f0e0080
+int id design_navigation_view 0x7f0e007f
+=======
 <<<<<<< HEAD
 int id design_bottom_sheet 0x7f0e007c
 int id design_menu_item_action_area 0x7f0e0083
@@ -687,12 +720,17 @@ int id design_menu_item_action_area 0x7f0e0080
 int id design_menu_item_action_area_stub 0x7f0e007f
 int id design_menu_item_text 0x7f0e007e
 int id design_navigation_view 0x7f0e007d
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int id disableHome 0x7f0e000e
 int id edit_query 0x7f0e005c
-int id email 0x7f0e006c
+int id email 0x7f0e006e
 int id end 0x7f0e0021
+<<<<<<< HEAD
+int id end_padder 0x7f0e008f
+=======
 int id end_padder 0x7f0e008d
 >>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int id enterAlways 0x7f0e0015
 int id enterAlwaysCollapsed 0x7f0e0016
 int id exitUntilCollapsed 0x7f0e0017
@@ -707,6 +745,9 @@ int id homeAsUp 0x7f0e000f
 int id icon 0x7f0e0042
 int id ifRoom 0x7f0e0035
 int id image 0x7f0e003f
+<<<<<<< HEAD
+int id info 0x7f0e008e
+=======
 <<<<<<< HEAD
 int id info 0x7f0e008f
 int id item_touch_helper_previous_elevation 0x7f0e0005
@@ -726,21 +767,29 @@ int id name 0x7f0e0077
 int id navigation_header_container 0x7f0e007f
 =======
 int id info 0x7f0e008c
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int id item_touch_helper_previous_elevation 0x7f0e0005
 int id left 0x7f0e0023
-int id line1 0x7f0e0086
-int id line3 0x7f0e008a
+int id line1 0x7f0e0088
+int id line3 0x7f0e008c
 int id listMode 0x7f0e000b
 int id listView 0x7f0e006b
-int id listView2 0x7f0e0077
+int id listView2 0x7f0e0079
 int id list_item 0x7f0e0041
-int id media_actions 0x7f0e0084
+int id list_item_string 0x7f0e0090
+int id media_actions 0x7f0e0086
+int id message 0x7f0e006c
 int id middle 0x7f0e0032
 int id mini 0x7f0e0030
 int id multiply 0x7f0e0027
+<<<<<<< HEAD
+int id name 0x7f0e0076
+int id navigation_header_container 0x7f0e007e
+=======
 int id name 0x7f0e0074
 int id navigation_header_container 0x7f0e007c
 >>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int id never 0x7f0e0036
 int id none 0x7f0e0010
 int id normal 0x7f0e000c
@@ -750,8 +799,12 @@ int id parentPanel 0x7f0e0046
 <<<<<<< HEAD
 int id password 0x7f0e006f
 =======
+<<<<<<< HEAD
+int id password 0x7f0e006f
+=======
 int id password 0x7f0e006d
 >>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int id pin 0x7f0e001c
 int id progress_circular 0x7f0e0006
 int id progress_horizontal 0x7f0e0007
@@ -779,12 +832,17 @@ int id showCustom 0x7f0e0011
 int id showHome 0x7f0e0012
 int id showTitle 0x7f0e0013
 <<<<<<< HEAD
+int id snackbar_action 0x7f0e007d
+int id snackbar_text 0x7f0e007c
+=======
+<<<<<<< HEAD
 int id snackbar_action 0x7f0e007e
 int id snackbar_text 0x7f0e007d
 =======
 int id snackbar_action 0x7f0e007b
 int id snackbar_text 0x7f0e007a
 >>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int id snap 0x7f0e0019
 int id spacer 0x7f0e0045
 int id split_action_bar 0x7f0e0008
@@ -793,6 +851,9 @@ int id src_in 0x7f0e002a
 int id src_over 0x7f0e002b
 int id start 0x7f0e0025
 int id status 0x7f0e0069
+<<<<<<< HEAD
+int id status_bar_latest_event_content 0x7f0e0085
+=======
 <<<<<<< HEAD
 int id status_bar_latest_event_content 0x7f0e0086
 int id submit_area 0x7f0e0065
@@ -803,17 +864,29 @@ int id textSpacerNoButtons 0x7f0e004d
 int id time 0x7f0e008a
 =======
 int id status_bar_latest_event_content 0x7f0e0083
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int id submit_area 0x7f0e0065
 int id tabMode 0x7f0e000d
-int id text 0x7f0e008b
-int id text2 0x7f0e0089
+int id text 0x7f0e008d
+int id text2 0x7f0e008b
 int id textSpacerNoButtons 0x7f0e004d
+<<<<<<< HEAD
+int id time 0x7f0e0089
+=======
 int id time 0x7f0e0087
 >>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int id title 0x7f0e0043
 int id title_template 0x7f0e0048
 int id top 0x7f0e0026
 int id topPanel 0x7f0e0047
+<<<<<<< HEAD
+int id touch_outside 0x7f0e007a
+int id up 0x7f0e0009
+int id useLogo 0x7f0e0014
+int id view_offset_helper 0x7f0e000a
+int id welcome 0x7f0e0073
+=======
 <<<<<<< HEAD
 int id touch_outside 0x7f0e007b
 int id up 0x7f0e0009
@@ -827,6 +900,7 @@ int id useLogo 0x7f0e0014
 int id view_offset_helper 0x7f0e000a
 int id welcome 0x7f0e0071
 >>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int id withText 0x7f0e0037
 int id wrap_content 0x7f0e001a
 int integer abc_config_activityDefaultDur 0x7f0b0002
@@ -864,6 +938,9 @@ int layout abc_select_dialog_material 0x7f030018
 int layout activity_bluetooth 0x7f030019
 int layout activity_contact_emergency 0x7f03001a
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int layout activity_edit_message 0x7f03001b
 int layout activity_login 0x7f03001c
 int layout activity_main 0x7f03001d
@@ -893,6 +970,11 @@ int layout notification_template_part_time 0x7f030034
 int layout select_dialog_item_material 0x7f030035
 int layout select_dialog_multichoice_material 0x7f030036
 int layout select_dialog_singlechoice_material 0x7f030037
+<<<<<<< HEAD
+int layout selected_contact_items 0x7f030038
+int layout splash 0x7f030039
+int layout support_simple_spinner_dropdown_item 0x7f03003a
+=======
 int layout splash 0x7f030038
 int layout support_simple_spinner_dropdown_item 0x7f030039
 =======
@@ -927,6 +1009,7 @@ int layout select_dialog_singlechoice_material 0x7f030036
 int layout splash 0x7f030037
 int layout support_simple_spinner_dropdown_item 0x7f030038
 >>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 int raw test 0x7f060000
 int string abc_action_bar_home_description 0x7f070000
 int string abc_action_bar_home_description_format 0x7f070001

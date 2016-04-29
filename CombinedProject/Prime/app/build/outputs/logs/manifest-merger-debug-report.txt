@@ -1,9 +1,13 @@
 -- Merging decision tree log ---
 manifest
 <<<<<<< HEAD
+ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\main\AndroidManifest.xml:2:1-69:12
+=======
+<<<<<<< HEAD
 ADDED from C:\Users\user\Documents\GitHub\PPLA07\CombinedProject\Prime\app\src\main\AndroidManifest.xml:2:1-76:12
 =======
 ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\main\AndroidManifest.xml:2:1-68:12
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
 	xmlns:android
 		ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\main\AndroidManifest.xml:2:11-69
 >>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
@@ -242,7 +246,7 @@ ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\
 	android:name
 		ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\main\AndroidManifest.xml:17:30-85
 application
-ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\main\AndroidManifest.xml:19:5-66:19
+ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\main\AndroidManifest.xml:19:5-67:19
 MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
@@ -331,7 +335,14 @@ ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\
 	android:name
 		ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\main\AndroidManifest.xml:64:19-60
 activity#info.ppla07.prime.activity.SelectedContact
-ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\main\AndroidManifest.xml:65:9-71
+ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\main\AndroidManifest.xml:65:9-62
 	android:name
 		ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\main\AndroidManifest.xml:65:19-59
+<<<<<<< HEAD
+activity#info.ppla07.prime.activity.EditMessage
+ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\main\AndroidManifest.xml:66:9-67
+	android:name
+		ADDED from C:\Users\Christian\Desktop\Git Project\CombinedProject\Prime\app\src\main\AndroidManifest.xml:66:19-55
+=======
 >>>>>>> 015a8bf789a2d656672e6b85c5235fbe1f868634
+>>>>>>> 8b9c89a725df8eb3a2879f060045c798cf55e79a
