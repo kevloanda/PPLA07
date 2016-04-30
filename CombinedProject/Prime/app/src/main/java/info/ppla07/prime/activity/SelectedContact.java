@@ -6,6 +6,8 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.SimpleAdapter;
+import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,11 +34,8 @@ public class SelectedContact extends Activity {
             listView.setAdapter(adapter);
         }
         else {
-            ArrayList<String> selectedContact = new ArrayList<String>();
-            selectedContact.add("No Contacts Chosen");
-            ListView listView = (ListView) findViewById(R.id.listView2);
-            SelectedContactsAdapter adapter = new SelectedContactsAdapter(selectedContact, this);
-            listView.setAdapter(adapter);
+            TextView textView = (TextView) findViewById(R.id.textView);
+            textView.setText("No Contacts Selected");
         }
     }
 }
