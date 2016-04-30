@@ -25,8 +25,7 @@
         android:theme="@android:style/Theme.Holo.Light.DarkActionBar" >
         <activity
             android:name="info.ppla07.prime.activity.SplashScreen"
-            android:label="@string/app_name" >
-        </activity>
+            android:label="@string/app_name" />
         <activity
             android:name="info.ppla07.prime.activity.LoginActivity"
             android:label="@string/app_name"
@@ -65,6 +64,9 @@
         <activity android:name="info.ppla07.prime.activity.ContactEmergency" />
         <activity android:name="info.ppla07.prime.activity.SelectedContact" />
         <activity android:name="info.ppla07.prime.activity.EditMessage" />
+        <activity android:name="info.ppla07.prime.activity.Main2Activity" />
+        <activity android:name="info.ppla07.prime.activity.Settings" />
+        <activity android:name="info.ppla07.prime.activity.AlarmSettings" />
     </application>
 
 </manifest>

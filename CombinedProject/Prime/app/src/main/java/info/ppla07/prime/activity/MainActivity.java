@@ -25,6 +25,7 @@ public class MainActivity extends Activity {
 	private Button btnLogout;
 	private ImageView btnBluetooth;
 	private Button btnContact;
+	private ImageView btnSetting;
 
 	private SQLiteHandler db;
 	private SessionManager session;
@@ -38,6 +39,7 @@ public class MainActivity extends Activity {
 		btnLogout = (Button) findViewById(R.id.btnLogout);
 		btnBluetooth = (ImageView) findViewById(R.id.btnBluetooth);
 		btnContact = (Button) findViewById(R.id.btnContact);
+		btnSetting = (ImageView) findViewById(R.id.btnSetting);
 
 //		// SqLite database handler
 //		db = new SQLiteHandler(getApplicationContext());
@@ -74,6 +76,16 @@ public class MainActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				Intent intent = new Intent(MainActivity.this, BluetoothActivity.class);
+				startActivity(intent);
+			}
+		});
+
+		// Setting button click event
+		btnSetting.setOnClickListener(new View.OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(MainActivity.this, Settings.class);
 				startActivity(intent);
 			}
 		});

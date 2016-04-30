@@ -9,11 +9,10 @@
         android:targetSdkVersion="21" />
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_CONTACTS" />
-
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -26,8 +25,7 @@
         android:theme="@android:style/Theme.Holo.Light.DarkActionBar">
         <activity
             android:name=".activity.SplashScreen"
-            android:label="@string/app_name">
-        </activity>
+            android:label="@string/app_name" />
         <activity
             android:name=".activity.LoginActivity"
             android:label="@string/app_name"
@@ -41,7 +39,7 @@
         <activity
             android:name=".activity.MainActivity"
             android:label="@string/app_name"
-            android:launchMode="singleTop" >
+            android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -65,7 +63,10 @@
 
         <activity android:name=".activity.ContactEmergency" />
         <activity android:name=".activity.SelectedContact" />
-        <activity android:name=".activity.EditMessage"></activity>
+        <activity android:name=".activity.EditMessage" />
+        <activity android:name=".activity.Main2Activity" />
+        <activity android:name=".activity.Settings" />
+        <activity android:name=".activity.AlarmSettings"></activity>
     </application>
 
 </manifest>
