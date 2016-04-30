@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-h320dp-v13\\values-h320dp-v13.xml",
+        "outputFile": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-h320dp-v13\\values-h320dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,6 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
                     "position": {
                         "startLine": 2,
@@ -60,6 +61,9 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
+=======
+                    "file": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
+>>>>>>> origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

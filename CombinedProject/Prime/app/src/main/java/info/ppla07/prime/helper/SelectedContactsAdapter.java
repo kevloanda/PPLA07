@@ -2,6 +2,7 @@ package info.ppla07.prime.helper;
 
 import android.content.Context;
 import android.content.SharedPreferences;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -9,6 +10,7 @@ import android.widget.BaseAdapter;
 import android.widget.Button;
 import android.widget.ListAdapter;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 
@@ -58,7 +60,8 @@ public class SelectedContactsAdapter extends BaseAdapter implements ListAdapter 
         deleteBtn.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                String[] contact = list.get(position).split("-");
+                Log.d("Error", list.get(position));
+                String[] contact = list.get(position).split("|");
                 SharedPreferences sharedpreferences = context.getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
                 SharedPreferences.Editor editor = sharedpreferences.edit();
                 String[] names = sharedpreferences.getString("EmergencyContactsNames", "").split(";");
@@ -66,7 +69,7 @@ public class SelectedContactsAdapter extends BaseAdapter implements ListAdapter 
                 String newName = "";
                 String newNumber = "";
                 for(int i = 0; i < names.length; i++) {
-                    if(names[i].equals(contact[0]) || numbers[i].equals(contact[1])) {
+                    if(i == position) {
                         continue;
                     }
                     else {
@@ -74,9 +77,18 @@ public class SelectedContactsAdapter extends BaseAdapter implements ListAdapter 
                         newNumber += numbers[i] + ";";
                     }
                 }
+                if(newName.equals(";")) {
+                    newName = "";
+                    newNumber = "";
+                }
                 editor.putString("EmergencyContactsNames", newName);
                 editor.putString("EmergencyContactsNumbers", newNumber);
                 editor.commit();
+
+                CharSequence text = "Delete successful";
+                int duration = Toast.LENGTH_SHORT;
+                Toast toast = Toast.makeText(context, text, duration);
+                toast.show();
                 list.remove(position);
                 notifyDataSetChanged();
             }

@@ -13,6 +13,11 @@
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_CONTACTS" />
+<<<<<<< HEAD
+=======
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+>>>>>>> origin/master
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -60,7 +65,7 @@
         </activity>
 
         <service android:name=".activity.BluetoothService" />
-
+        <activity android:name=".activity.SmsService" />
         <activity android:name=".activity.ContactEmergency" />
         <activity android:name=".activity.SelectedContact" />
         <activity android:name=".activity.EditMessage" />
