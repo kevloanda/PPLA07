@@ -130,6 +130,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import info.ppla07.prime.R;
 
@@ -157,6 +158,13 @@ public class EditMessage extends Activity {
                 SharedPreferences.Editor editor = sharedpreferences.edit();
                 editor.putString("EmergencyMessage", ((EditText) findViewById(R.id.message)).getText().toString());
                 editor.commit();
+                Context context = getApplicationContext();
+                CharSequence text = "Saved!";
+                int duration = Toast.LENGTH_SHORT;
+                Toast toast = Toast.makeText(context, text, duration);
+                toast.show();
+                Intent activitySelectedContact = new Intent(EditMessage.this, ContactEmergency.class);
+                startActivity(activitySelectedContact);
             }
         });
     }

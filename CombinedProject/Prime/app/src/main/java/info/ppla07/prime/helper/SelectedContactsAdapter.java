@@ -74,6 +74,10 @@ public class SelectedContactsAdapter extends BaseAdapter implements ListAdapter 
                         newNumber += numbers[i] + ";";
                     }
                 }
+                if(newName.equals(";")) {
+                    newName = "";
+                    newNumber = "";
+                }
                 editor.putString("EmergencyContactsNames", newName);
                 editor.putString("EmergencyContactsNumbers", newNumber);
                 editor.commit();

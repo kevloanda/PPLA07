@@ -95,7 +95,7 @@ public class ContactEmergency extends Activity {
                         phones.close();
                         SharedPreferences sharedpreferences = getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
                         SharedPreferences.Editor editor = sharedpreferences.edit();
-                        editor.putString("EmergencyContactNames", sharedpreferences.getString("EmergencyContactsNames", "") + name + ";");
+                        editor.putString("EmergencyContactsNames", sharedpreferences.getString("EmergencyContactsNames", "") + name + ";");
                         editor.commit();
                     }
                 }
