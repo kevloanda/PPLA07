@@ -38,6 +38,7 @@ public class ContactEmergency extends Activity {
         strings.add("Add Contact");
         strings.add("Selected Contact");
         strings.add("Edit Message");
+        strings.add("Test SMS");
 
         arrayAdapter = new ArrayAdapter<String>(
                 this,
@@ -59,6 +60,9 @@ public class ContactEmergency extends Activity {
                         break;
                     case 2:  Intent activityEditMessage = new Intent(ContactEmergency.this, EditMessage.class);
                         startActivity(activityEditMessage);
+                        break;
+                    case 3:  Intent activitySms = new Intent(ContactEmergency.this, SmsService.class);
+                        startActivity(activitySms);
                         break;
                 }
             }

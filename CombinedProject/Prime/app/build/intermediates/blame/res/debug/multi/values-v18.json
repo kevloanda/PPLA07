@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 48,
-                    "endOffset": 99
-                },
-                "from": {
-                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v18\\values-v18.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 48,
-                        "endOffset": 99
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
         "map": [
             {
@@ -60,6 +36,54 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

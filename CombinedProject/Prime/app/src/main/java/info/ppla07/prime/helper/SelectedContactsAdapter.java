@@ -66,7 +66,7 @@ public class SelectedContactsAdapter extends BaseAdapter implements ListAdapter 
                 String newName = "";
                 String newNumber = "";
                 for(int i = 0; i < names.length; i++) {
-                    if(names[i].equals(contact[0]) || numbers[i].equals(contact[1])) {
+                    if(i == position) {
                         continue;
                     }
                     else {
