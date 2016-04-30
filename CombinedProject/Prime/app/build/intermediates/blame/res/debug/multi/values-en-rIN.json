@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rIN\\values-en-rIN.xml",
+        "outputFile": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rIN\\values-en-rIN.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 233,
+                        "startOffset": 55,
                         "endColumn": 103,
-                        "endOffset": 332
+                        "endOffset": 154
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 262
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 337,
+                        "startOffset": 159,
                         "endColumn": 107,
-                        "endOffset": 440
+                        "endOffset": 262
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 385
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 445,
+                        "startOffset": 267,
                         "endColumn": 122,
-                        "endOffset": 563
+                        "endOffset": 385
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 485
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 568,
+                        "startOffset": 390,
                         "endColumn": 99,
-                        "endOffset": 663
+                        "endOffset": 485
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 593
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 668,
+                        "startOffset": 490,
                         "endColumn": 107,
-                        "endOffset": 771
+                        "endOffset": 593
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 677
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 776,
+                        "startOffset": 598,
                         "endColumn": 83,
-                        "endOffset": 855
+                        "endOffset": 677
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 777
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 860,
+                        "startOffset": 682,
                         "endColumn": 99,
-                        "endOffset": 955
+                        "endOffset": 777
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 892
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 960,
+                        "startOffset": 782,
                         "endColumn": 114,
-                        "endOffset": 1070
+                        "endOffset": 892
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 969
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1075,
+                        "startOffset": 897,
                         "endColumn": 76,
-                        "endOffset": 1147
+                        "endOffset": 969
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 1045
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1152,
+                        "startOffset": 974,
                         "endColumn": 75,
-                        "endOffset": 1223
+                        "endOffset": 1045
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 1127
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1228,
+                        "startOffset": 1050,
                         "endColumn": 81,
-                        "endOffset": 1305
+                        "endOffset": 1127
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 1230
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1310,
+                        "startOffset": 1132,
                         "endColumn": 102,
-                        "endOffset": 1408
+                        "endOffset": 1230
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 1334
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1413,
+                        "startOffset": 1235,
                         "endColumn": 103,
-                        "endOffset": 1512
+                        "endOffset": 1334
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 1433
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1517,
+                        "startOffset": 1339,
                         "endColumn": 98,
-                        "endOffset": 1611
+                        "endOffset": 1433
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 1538
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1616,
+                        "startOffset": 1438,
                         "endColumn": 104,
-                        "endOffset": 1716
+                        "endOffset": 1538
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 1641
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1721,
+                        "startOffset": 1543,
                         "endColumn": 102,
-                        "endOffset": 1819
+                        "endOffset": 1641
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 1745
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1824,
+                        "startOffset": 1646,
                         "endColumn": 103,
-                        "endOffset": 1923
+                        "endOffset": 1745
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 1864
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1928,
+                        "startOffset": 1750,
                         "endColumn": 118,
-                        "endOffset": 2042
+                        "endOffset": 1864
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 1964
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2047,
+                        "startOffset": 1869,
                         "endColumn": 99,
-                        "endOffset": 2142
+                        "endOffset": 1964
                     }
                 }
             },
@@ -372,13 +372,13 @@
                     "endOffset": 2065
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2147,
+                        "startOffset": 1969,
                         "endColumn": 100,
-                        "endOffset": 2243
+                        "endOffset": 2065
                     }
                 }
             }
@@ -396,13 +396,13 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 233,
+                        "startOffset": 55,
                         "endColumn": 103,
-                        "endOffset": 332
+                        "endOffset": 154
                     }
                 }
             },
@@ -415,13 +415,13 @@
                     "endOffset": 262
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 337,
+                        "startOffset": 159,
                         "endColumn": 107,
-                        "endOffset": 440
+                        "endOffset": 262
                     }
                 }
             },
@@ -434,13 +434,13 @@
                     "endOffset": 385
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 445,
+                        "startOffset": 267,
                         "endColumn": 122,
-                        "endOffset": 563
+                        "endOffset": 385
                     }
                 }
             },
@@ -453,13 +453,13 @@
                     "endOffset": 485
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 568,
+                        "startOffset": 390,
                         "endColumn": 99,
-                        "endOffset": 663
+                        "endOffset": 485
                     }
                 }
             },
@@ -472,13 +472,13 @@
                     "endOffset": 593
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 668,
+                        "startOffset": 490,
                         "endColumn": 107,
-                        "endOffset": 771
+                        "endOffset": 593
                     }
                 }
             },
@@ -491,13 +491,13 @@
                     "endOffset": 677
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 776,
+                        "startOffset": 598,
                         "endColumn": 83,
-                        "endOffset": 855
+                        "endOffset": 677
                     }
                 }
             },
@@ -510,13 +510,13 @@
                     "endOffset": 777
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 860,
+                        "startOffset": 682,
                         "endColumn": 99,
-                        "endOffset": 955
+                        "endOffset": 777
                     }
                 }
             },
@@ -529,13 +529,13 @@
                     "endOffset": 892
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 960,
+                        "startOffset": 782,
                         "endColumn": 114,
-                        "endOffset": 1070
+                        "endOffset": 892
                     }
                 }
             },
@@ -548,13 +548,13 @@
                     "endOffset": 969
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1075,
+                        "startOffset": 897,
                         "endColumn": 76,
-                        "endOffset": 1147
+                        "endOffset": 969
                     }
                 }
             },
@@ -567,13 +567,13 @@
                     "endOffset": 1045
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1152,
+                        "startOffset": 974,
                         "endColumn": 75,
-                        "endOffset": 1223
+                        "endOffset": 1045
                     }
                 }
             },
@@ -586,13 +586,13 @@
                     "endOffset": 1127
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1228,
+                        "startOffset": 1050,
                         "endColumn": 81,
-                        "endOffset": 1305
+                        "endOffset": 1127
                     }
                 }
             },
@@ -605,13 +605,13 @@
                     "endOffset": 1230
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1310,
+                        "startOffset": 1132,
                         "endColumn": 102,
-                        "endOffset": 1408
+                        "endOffset": 1230
                     }
                 }
             },
@@ -624,13 +624,13 @@
                     "endOffset": 1334
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1413,
+                        "startOffset": 1235,
                         "endColumn": 103,
-                        "endOffset": 1512
+                        "endOffset": 1334
                     }
                 }
             },
@@ -643,13 +643,13 @@
                     "endOffset": 1433
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1517,
+                        "startOffset": 1339,
                         "endColumn": 98,
-                        "endOffset": 1611
+                        "endOffset": 1433
                     }
                 }
             },
@@ -662,13 +662,13 @@
                     "endOffset": 1538
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1616,
+                        "startOffset": 1438,
                         "endColumn": 104,
-                        "endOffset": 1716
+                        "endOffset": 1538
                     }
                 }
             },
@@ -681,13 +681,13 @@
                     "endOffset": 1641
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1721,
+                        "startOffset": 1543,
                         "endColumn": 102,
-                        "endOffset": 1819
+                        "endOffset": 1641
                     }
                 }
             },
@@ -700,13 +700,13 @@
                     "endOffset": 1745
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1824,
+                        "startOffset": 1646,
                         "endColumn": 103,
-                        "endOffset": 1923
+                        "endOffset": 1745
                     }
                 }
             },
@@ -719,13 +719,13 @@
                     "endOffset": 1864
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1928,
+                        "startOffset": 1750,
                         "endColumn": 118,
-                        "endOffset": 2042
+                        "endOffset": 1864
                     }
                 }
             },
@@ -738,13 +738,13 @@
                     "endOffset": 1964
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2047,
+                        "startOffset": 1869,
                         "endColumn": 99,
-                        "endOffset": 2142
+                        "endOffset": 1964
                     }
                 }
             },
@@ -757,20 +757,20 @@
                     "endOffset": 2065
                 },
                 "from": {
-                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2147,
+                        "startOffset": 1969,
                         "endColumn": 100,
-                        "endOffset": 2243
+                        "endOffset": 2065
                     }
                 }
             }
         ]
     },
     {
-        "outputFile": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rIN\\values-en-rIN.xml",
+        "outputFile": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rIN\\values-en-rIN.xml",
         "map": [
             {
                 "to": {
@@ -781,13 +781,13 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 233,
+                        "startOffset": 55,
                         "endColumn": 103,
-                        "endOffset": 332
+                        "endOffset": 154
                     }
                 }
             },
@@ -800,13 +800,13 @@
                     "endOffset": 262
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 337,
+                        "startOffset": 159,
                         "endColumn": 107,
-                        "endOffset": 440
+                        "endOffset": 262
                     }
                 }
             },
@@ -819,13 +819,13 @@
                     "endOffset": 385
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 445,
+                        "startOffset": 267,
                         "endColumn": 122,
-                        "endOffset": 563
+                        "endOffset": 385
                     }
                 }
             },
@@ -838,13 +838,13 @@
                     "endOffset": 485
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 568,
+                        "startOffset": 390,
                         "endColumn": 99,
-                        "endOffset": 663
+                        "endOffset": 485
                     }
                 }
             },
@@ -857,13 +857,13 @@
                     "endOffset": 593
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 668,
+                        "startOffset": 490,
                         "endColumn": 107,
-                        "endOffset": 771
+                        "endOffset": 593
                     }
                 }
             },
@@ -876,13 +876,13 @@
                     "endOffset": 677
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 776,
+                        "startOffset": 598,
                         "endColumn": 83,
-                        "endOffset": 855
+                        "endOffset": 677
                     }
                 }
             },
@@ -895,13 +895,13 @@
                     "endOffset": 777
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 860,
+                        "startOffset": 682,
                         "endColumn": 99,
-                        "endOffset": 955
+                        "endOffset": 777
                     }
                 }
             },
@@ -914,13 +914,13 @@
                     "endOffset": 892
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 960,
+                        "startOffset": 782,
                         "endColumn": 114,
-                        "endOffset": 1070
+                        "endOffset": 892
                     }
                 }
             },
@@ -933,13 +933,13 @@
                     "endOffset": 969
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1075,
+                        "startOffset": 897,
                         "endColumn": 76,
-                        "endOffset": 1147
+                        "endOffset": 969
                     }
                 }
             },
@@ -952,13 +952,13 @@
                     "endOffset": 1045
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1152,
+                        "startOffset": 974,
                         "endColumn": 75,
-                        "endOffset": 1223
+                        "endOffset": 1045
                     }
                 }
             },
@@ -971,13 +971,13 @@
                     "endOffset": 1127
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1228,
+                        "startOffset": 1050,
                         "endColumn": 81,
-                        "endOffset": 1305
+                        "endOffset": 1127
                     }
                 }
             },
@@ -990,13 +990,13 @@
                     "endOffset": 1230
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1310,
+                        "startOffset": 1132,
                         "endColumn": 102,
-                        "endOffset": 1408
+                        "endOffset": 1230
                     }
                 }
             },
@@ -1009,13 +1009,13 @@
                     "endOffset": 1334
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1413,
+                        "startOffset": 1235,
                         "endColumn": 103,
-                        "endOffset": 1512
+                        "endOffset": 1334
                     }
                 }
             },
@@ -1028,13 +1028,13 @@
                     "endOffset": 1433
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1517,
+                        "startOffset": 1339,
                         "endColumn": 98,
-                        "endOffset": 1611
+                        "endOffset": 1433
                     }
                 }
             },
@@ -1047,13 +1047,13 @@
                     "endOffset": 1538
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1616,
+                        "startOffset": 1438,
                         "endColumn": 104,
-                        "endOffset": 1716
+                        "endOffset": 1538
                     }
                 }
             },
@@ -1066,13 +1066,13 @@
                     "endOffset": 1641
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1721,
+                        "startOffset": 1543,
                         "endColumn": 102,
-                        "endOffset": 1819
+                        "endOffset": 1641
                     }
                 }
             },
@@ -1085,13 +1085,13 @@
                     "endOffset": 1745
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1824,
+                        "startOffset": 1646,
                         "endColumn": 103,
-                        "endOffset": 1923
+                        "endOffset": 1745
                     }
                 }
             },
@@ -1104,13 +1104,13 @@
                     "endOffset": 1864
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1928,
+                        "startOffset": 1750,
                         "endColumn": 118,
-                        "endOffset": 2042
+                        "endOffset": 1864
                     }
                 }
             },
@@ -1123,13 +1123,13 @@
                     "endOffset": 1964
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2047,
+                        "startOffset": 1869,
                         "endColumn": 99,
-                        "endOffset": 2142
+                        "endOffset": 1964
                     }
                 }
             },
@@ -1142,13 +1142,398 @@
                     "endOffset": 2065
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "file": "C:\\Users\\user\\Desktop\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2147,
+                        "startOffset": 1969,
                         "endColumn": 100,
-                        "endOffset": 2243
+                        "endOffset": 2065
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rIN\\values-en-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 103,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 107,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 107,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 122,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 122,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 99,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 99,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 107,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 107,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 83,
+                    "endOffset": 677
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 83,
+                        "endOffset": 677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 682,
+                    "endColumn": 99,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 99,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 114,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 114,
+                        "endOffset": 892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 76,
+                    "endOffset": 969
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 897,
+                        "endColumn": 76,
+                        "endOffset": 969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 974,
+                    "endColumn": 75,
+                    "endOffset": 1045
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 974,
+                        "endColumn": 75,
+                        "endOffset": 1045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1050,
+                    "endColumn": 81,
+                    "endOffset": 1127
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endColumn": 81,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1132,
+                    "endColumn": 102,
+                    "endOffset": 1230
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1132,
+                        "endColumn": 102,
+                        "endOffset": 1230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1235,
+                    "endColumn": 103,
+                    "endOffset": 1334
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1235,
+                        "endColumn": 103,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 98,
+                    "endOffset": 1433
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 98,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1438,
+                    "endColumn": 104,
+                    "endOffset": 1538
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endColumn": 104,
+                        "endOffset": 1538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1543,
+                    "endColumn": 102,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1543,
+                        "endColumn": 102,
+                        "endOffset": 1641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endColumn": 103,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1646,
+                        "endColumn": 103,
+                        "endOffset": 1745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endColumn": 118,
+                    "endOffset": 1864
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1750,
+                        "endColumn": 118,
+                        "endOffset": 1864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1869,
+                    "endColumn": 99,
+                    "endOffset": 1964
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endColumn": 99,
+                        "endOffset": 1964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1969,
+                    "endColumn": 100,
+                    "endOffset": 2065
+                },
+                "from": {
+                    "file": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1969,
+                        "endColumn": 100,
+                        "endOffset": 2065
                     }
                 }
             }

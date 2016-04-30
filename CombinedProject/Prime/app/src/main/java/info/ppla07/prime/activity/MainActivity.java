@@ -2,9 +2,14 @@ package info.ppla07.prime.activity;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.database.Cursor;
+import android.net.Uri;
 import android.os.Bundle;
+import android.provider.ContactsContract;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.HashMap;
@@ -18,7 +23,8 @@ public class MainActivity extends Activity {
 	private TextView txtName;
 	private TextView txtEmail;
 	private Button btnLogout;
-	private Button btnBluetooth;
+	private ImageView btnBluetooth;
+	private Button btnContact;
 
 	private SQLiteHandler db;
 	private SessionManager session;
@@ -30,7 +36,8 @@ public class MainActivity extends Activity {
 
 		txtName = (TextView) findViewById(R.id.welcome);
 		btnLogout = (Button) findViewById(R.id.btnLogout);
-		btnBluetooth = (Button) findViewById(R.id.btnBluetooth);
+		btnBluetooth = (ImageView) findViewById(R.id.btnBluetooth);
+		btnContact = (Button) findViewById(R.id.btnContact);
 
 //		// SqLite database handler
 //		db = new SQLiteHandler(getApplicationContext());
@@ -41,12 +48,14 @@ public class MainActivity extends Activity {
 //		if (!session.isLoggedIn()) {
 //			logoutUser();
 //		}
-//
+
 //		// Fetching user details from SQLite
 //		HashMap<String, String> user = db.getUserDetails();
-//
+
 //		String name = user.get("name");
-		String name = "Ardhito";
+
+		String name = "PRIME";
+
 		// Displaying the user details on the screen
 		txtName.setText("Welcome, " + name);
 
@@ -68,12 +77,23 @@ public class MainActivity extends Activity {
 				startActivity(intent);
 			}
 		});
+
+		// Contact button click event
+		btnContact.setOnClickListener(new View.OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(MainActivity.this, ContactEmergency.class);
+				startActivity(intent);
+			}
+		});
 	}
 
 	/**
 	 * Logging out the user. Will set isLoggedIn flag to false in shared
 	 * preferences Clears the user data from sqlite users table
 	 * */
+
 	private void logoutUser() {
 		session.setLogin(false);
 

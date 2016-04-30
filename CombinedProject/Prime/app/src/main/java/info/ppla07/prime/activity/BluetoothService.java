@@ -18,7 +18,7 @@ public class BluetoothService extends Service {
     MediaPlayer player;
 
     public void onCreate() {
-        Toast.makeText(this, "BLUTUT KONTOL", Toast.LENGTH_LONG).show();
+        //Toast.makeText(this, "BLUTUT KONTOL", Toast.LENGTH_LONG).show();
         super.onCreate();
         //Membuat media player untuk alarm
         player = MediaPlayer.create(this, R.raw.test);
