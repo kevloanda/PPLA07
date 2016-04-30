@@ -29,21 +29,21 @@ android:layout_below="@+id/textView1"
 android:layout_alignRight="@+id/imageButton"
 android:layout_alignEnd="@+id/imageButton" />
 
-<ImageButton
-android:layout_width="wrap_content"
-android:layout_height="wrap_content"
-android:id="@+id/imageButton"
-android:layout_below="@+id/textView2"
-android:layout_centerHorizontal="true" />
+<!--<ImageButton-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:id="@+id/imageButton"-->
+<!--android:layout_below="@+id/textView2"-->
+<!--android:layout_centerHorizontal="true" />-->
 
-<EditText
-android:layout_width="wrap_content"
-android:layout_height="wrap_content"
-android:id="@+id/editText"
-android:hint="Enter Phone Number"
-android:phoneNumber="true"
-android:layout_below="@+id/imageButton"
-android:layout_centerHorizontal="true" />
+<!--<EditText-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:id="@+id/editText"-->
+<!--android:hint="Enter Phone Number"-->
+<!--android:phoneNumber="true"-->
+<!--android:layout_below="@+id/imageButton"-->
+<!--android:layout_centerHorizontal="true" />-->
 
 <!--<EditText-->
 <!--android:layout_width="wrap_content"-->

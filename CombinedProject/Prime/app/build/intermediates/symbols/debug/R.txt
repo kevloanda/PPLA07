@@ -648,7 +648,6 @@ int id design_menu_item_action_area_stub 0x7f0e0088
 int id design_menu_item_text 0x7f0e0087
 int id design_navigation_view 0x7f0e0086
 int id disableHome 0x7f0e000e
-int id editText 0x7f0e007d
 int id editText2 0x7f0e007f
 int id edit_query 0x7f0e005c
 int id email 0x7f0e006e
@@ -668,7 +667,7 @@ int id homeAsUp 0x7f0e000f
 int id icon 0x7f0e0042
 int id ifRoom 0x7f0e0035
 int id image 0x7f0e003f
-int id imageButton 0x7f0e007c
+int id imageButton 0x7f0e007d
 int id info 0x7f0e0095
 int id item_touch_helper_previous_elevation 0x7f0e0005
 int id left 0x7f0e0023
@@ -736,8 +735,9 @@ int id text 0x7f0e0094
 int id text2 0x7f0e0092
 int id textSMS 0x7f0e0080
 int id textSpacerNoButtons 0x7f0e004d
-int id textView1 0x7f0e007a
-int id textView2 0x7f0e007b
+int id textView 0x7f0e007a
+int id textView1 0x7f0e007b
+int id textView2 0x7f0e007c
 int id time 0x7f0e0090
 int id title 0x7f0e0043
 int id title_template 0x7f0e0048

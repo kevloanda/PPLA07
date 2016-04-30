@@ -75,7 +75,7 @@ public class SmsService extends Activity {
         setContentView(R.layout.activity_sms);
 
         sendBtn = (Button) findViewById(R.id.btnSendSMS);
-        txtphoneNo = (EditText) findViewById(R.id.editText);
+
         sendSMS = (TextView) findViewById(R.id.textSMS);
 
         if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {

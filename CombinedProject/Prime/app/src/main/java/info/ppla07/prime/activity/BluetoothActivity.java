@@ -4,9 +4,14 @@ import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
 import android.bluetooth.BluetoothSocket;
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
+import android.location.Location;
 import android.os.Bundle;
+import android.telephony.SmsManager;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -310,6 +315,40 @@ public class BluetoothActivity extends Activity {
             });
 
         }
+
+//        public String getLoc (Location location) {
+//            String loc = "";
+//            if (location != null) {
+//                latitude = location.getLatitude();
+//                longitude = location.getLongitude();
+//                loc = latitude + "," + longitude;
+//            } else {
+//                loc = "Error";
+//            }
+//            return loc;
+//        }
+//
+//        protected void sendSMSMessage() {
+//            SharedPreferences sp = getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
+//
+//            Log.i("Send SMS", "");
+//            String [] phoneNo = sp.getString("EmergencyContactsNumbers","").split(";");
+//            String message = sp.getString("EmergencyMessage","")+" Saya berada di http://maps.google.com/?q="+getLoc(myLoc);
+//
+//            try {
+//                SmsManager smsManager = SmsManager.getDefault();
+//                for (int i = 0;i<phoneNo.length;i++) {
+//                    smsManager.sendTextMessage(phoneNo[i], null, message, null, null);
+//                }
+//                Toast.makeText(getApplicationContext(), "SMS sent.", Toast.LENGTH_LONG).show();
+//            }
+//
+//            catch (Exception e) {
+//                Toast.makeText(getApplicationContext(), "SMS failed, please try again.", Toast.LENGTH_LONG).show();
+//                e.printStackTrace();
+//            }
+//        }
+
         @Override
         public void run() {
             byte[] buffer = new byte[1024];

@@ -2349,7 +2349,6 @@ containing a value of this type.
         public static final int design_menu_item_text=0x7f0e0087;
         public static final int design_navigation_view=0x7f0e0086;
         public static final int disableHome=0x7f0e000e;
-        public static final int editText=0x7f0e007d;
         public static final int editText2=0x7f0e007f;
         public static final int edit_query=0x7f0e005c;
         public static final int email=0x7f0e006e;
@@ -2369,7 +2368,7 @@ containing a value of this type.
         public static final int icon=0x7f0e0042;
         public static final int ifRoom=0x7f0e0035;
         public static final int image=0x7f0e003f;
-        public static final int imageButton=0x7f0e007c;
+        public static final int imageButton=0x7f0e007d;
         public static final int info=0x7f0e0095;
         public static final int item_touch_helper_previous_elevation=0x7f0e0005;
         public static final int left=0x7f0e0023;
@@ -2437,8 +2436,9 @@ containing a value of this type.
         public static final int text2=0x7f0e0092;
         public static final int textSMS=0x7f0e0080;
         public static final int textSpacerNoButtons=0x7f0e004d;
-        public static final int textView1=0x7f0e007a;
-        public static final int textView2=0x7f0e007b;
+        public static final int textView=0x7f0e007a;
+        public static final int textView1=0x7f0e007b;
+        public static final int textView2=0x7f0e007c;
         public static final int time=0x7f0e0090;
         public static final int title=0x7f0e0043;
         public static final int title_template=0x7f0e0048;

@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
@@ -25,9 +26,12 @@ public class SelectedContact extends Activity {
         if(!(sharedpreferences.getString("EmergencyContactsNames", "").equals(""))) {
             String[] names = sharedpreferences.getString("EmergencyContactsNames", "").split(";");
             String[] numbers = sharedpreferences.getString("EmergencyContactsNumbers", "").split(";");
+            Log.d("Error", sharedpreferences.getString("EmergencyContactsNumbers", ""));
+            Log.d("Error", sharedpreferences.getString("EmergencyContactsNames", ""));
+
             ArrayList<String> selectedContact = new ArrayList<String>();
             for(int i = 0; i < names.length; i++) {
-                selectedContact.add(names[i] + "-" + numbers[i]);
+                selectedContact.add(names[i] + "|" + numbers[i]);
             }
             SelectedContactsAdapter adapter = new SelectedContactsAdapter(selectedContact, this);
             ListView listView = (ListView) findViewById(R.id.listView2);

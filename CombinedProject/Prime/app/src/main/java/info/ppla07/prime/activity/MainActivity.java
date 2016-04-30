@@ -1,7 +1,9 @@
 package info.ppla07.prime.activity;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.net.Uri;
 import android.os.Bundle;
@@ -83,8 +85,16 @@ public class MainActivity extends Activity {
 
 			@Override
 			public void onClick(View v) {
+//				SharedPreferences sp = getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
+//				SharedPreferences.Editor editor = sp.edit();
+//				editor.putString("EmergencyContactsNames","");
+//				editor.putString("EmergencyContactsNumbers","");
+//				editor.commit();
+//				Log.d("Error1", sp.getString("EmergencyContactsNames", ""));
+//				Log.d("Error1",sp.getString("EmergencyContactsNumbers",""));
 				Intent intent = new Intent(MainActivity.this, ContactEmergency.class);
 				startActivity(intent);
+
 			}
 		});
 	}

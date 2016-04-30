@@ -30,6 +30,9 @@ public class ContactEmergency extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        SharedPreferences sharedpreferences = getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedpreferences.edit();
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_contact_emergency);
 
@@ -86,7 +89,8 @@ public class ContactEmergency extends Activity {
                         Cursor phones = cr.query(ContactsContract.CommonDataKinds.Phone.CONTENT_URI, null,
                                 ContactsContract.CommonDataKinds.Phone.CONTACT_ID + " = " + contactId, null, null);
                         boolean save = true;
-                        while (phones.moveToNext()) {
+                        boolean saved = false;
+                        while (phones.moveToNext() && !saved) {
                             String number = phones.getString(phones.getColumnIndex(ContactsContract.CommonDataKinds.Phone.NUMBER));
                             int type = phones.getInt(phones.getColumnIndex(ContactsContract.CommonDataKinds.Phone.TYPE));
                             String[] savedNumbers = sharedpreferences.getString("EmergencyContactsNumbers", "").split(";");
@@ -103,15 +107,21 @@ public class ContactEmergency extends Activity {
                                         SharedPreferences.Editor editor = sharedpreferences.edit();
                                         editor.putString("EmergencyContactsNumbers", sharedpreferences.getString("EmergencyContactsNumbers", "") + number + ";");
                                         editor.commit();
+                                        saved = true;
                                     }
                                     break;
                             }
+                            Log.d("Error",number);
                         }
                         phones.close();
                         if(save) {
                             SharedPreferences.Editor editor = sharedpreferences.edit();
                             editor.putString("EmergencyContactsNames", sharedpreferences.getString("EmergencyContactsNames", "") + name + ";");
                             editor.commit();
+                            CharSequence text = "Added " + name + " to Emergency Contact";
+                            int duration = Toast.LENGTH_SHORT;
+                            Toast toast = Toast.makeText(getApplicationContext(), text, duration);
+                            toast.show();
                         }
                         else {
                             Context context = getApplicationContext();
