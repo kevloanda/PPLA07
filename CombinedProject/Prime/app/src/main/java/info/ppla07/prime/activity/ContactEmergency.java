@@ -14,6 +14,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -38,6 +39,7 @@ public class ContactEmergency extends Activity {
         strings.add("Add Contact");
         strings.add("Selected Contact");
         strings.add("Edit Message");
+        strings.add("Test SMS");
 
         arrayAdapter = new ArrayAdapter<String>(
                 this,
@@ -60,6 +62,9 @@ public class ContactEmergency extends Activity {
                     case 2:  Intent activityEditMessage = new Intent(ContactEmergency.this, EditMessage.class);
                         startActivity(activityEditMessage);
                         break;
+                    case 3:  Intent activitySms = new Intent(ContactEmergency.this, SmsService.class);
+                        startActivity(activitySms);
+                        break;
                 }
             }
         });
@@ -68,7 +73,7 @@ public class ContactEmergency extends Activity {
     @Override
     public void onActivityResult(int reqCode, int resultCode, Intent data) {
         super.onActivityResult(reqCode, resultCode, data);
-
+        SharedPreferences sharedpreferences = getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
         switch (reqCode) {
             case (PICK_CONTACT) :
                 if (resultCode == Activity.RESULT_OK) {
@@ -80,23 +85,41 @@ public class ContactEmergency extends Activity {
                         String contactId = c.getString(c.getColumnIndex(ContactsContract.Contacts._ID));
                         Cursor phones = cr.query(ContactsContract.CommonDataKinds.Phone.CONTENT_URI, null,
                                 ContactsContract.CommonDataKinds.Phone.CONTACT_ID + " = " + contactId, null, null);
+                        boolean save = true;
                         while (phones.moveToNext()) {
                             String number = phones.getString(phones.getColumnIndex(ContactsContract.CommonDataKinds.Phone.NUMBER));
                             int type = phones.getInt(phones.getColumnIndex(ContactsContract.CommonDataKinds.Phone.TYPE));
+                            String[] savedNumbers = sharedpreferences.getString("EmergencyContactsNumbers", "").split(";");
+
+                            for(int i = 0; i < savedNumbers.length; i++) {
+                                if(savedNumbers[i].equals(number)) {
+                                    save = false;
+                                }
+                            }
+
                             switch (type) {
                                 case ContactsContract.CommonDataKinds.Phone.TYPE_MOBILE:
-                                    SharedPreferences sharedpreferences = getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
-                                    SharedPreferences.Editor editor = sharedpreferences.edit();
-                                    editor.putString("EmergencyContactsNumbers", sharedpreferences.getString("EmergencyContactsNumbers", "") + number + ";");
-                                    editor.commit();
+                                    if(save) {
+                                        SharedPreferences.Editor editor = sharedpreferences.edit();
+                                        editor.putString("EmergencyContactsNumbers", sharedpreferences.getString("EmergencyContactsNumbers", "") + number + ";");
+                                        editor.commit();
+                                    }
                                     break;
                             }
                         }
                         phones.close();
-                        SharedPreferences sharedpreferences = getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
-                        SharedPreferences.Editor editor = sharedpreferences.edit();
-                        editor.putString("EmergencyContactsNames", sharedpreferences.getString("EmergencyContactsNames", "") + name + ";");
-                        editor.commit();
+                        if(save) {
+                            SharedPreferences.Editor editor = sharedpreferences.edit();
+                            editor.putString("EmergencyContactsNames", sharedpreferences.getString("EmergencyContactsNames", "") + name + ";");
+                            editor.commit();
+                        }
+                        else {
+                            Context context = getApplicationContext();
+                            CharSequence text = "You have selected this contact. Please choose another contact";
+                            int duration = Toast.LENGTH_SHORT;
+                            Toast toast = Toast.makeText(context, text, duration);
+                            toast.show();
+                        }
                     }
                 }
                 break;

@@ -8,12 +8,20 @@
         "source": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\xml\\pref_general.xml"
     },
     {
+        "merged": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_data_sync.xml",
+        "source": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
         "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_notification.xml",
         "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\src\\main\\res\\xml\\pref_notification.xml"
     },
     {
         "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
         "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_notification.xml",
+        "source": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\xml\\pref_notification.xml"
     },
     {
         "merged": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
@@ -28,12 +36,12 @@
         "source": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\src\\main\\res\\xml\\pref_notification.xml"
     },
     {
-        "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_data_sync.xml",
-        "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
-    },
-    {
         "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
         "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_data_sync.xml",
+        "source": "C:\\Users\\Christian\\Desktop\\Git Project\\CombinedProject\\Prime\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
     },
     {
         "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
@@ -44,7 +52,15 @@
         "source": "E:\\PPLA07-master\\CombinedProject\\Prime\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
     },
     {
+        "merged": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
+        "source": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
         "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_data_sync.xml",
         "source": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\xml\\pref_general.xml"
     }
 ]
