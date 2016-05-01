@@ -6,6 +6,7 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.content.SharedPreferences;
 import android.media.MediaPlayer;
 import android.os.IBinder;
 import android.widget.Toast;
@@ -46,7 +47,10 @@ public class BluetoothService extends Service {
                 else if (BluetoothDevice.ACTION_ACL_DISCONNECTED.equals(action)) {
                     //Device has disconnected
 //                    player.reset();
-                    player.start();
+                    SharedPreferences sharedpreferences = getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
+                    if(sharedpreferences.getString("AlarmSwitch", "").equals("on")) {
+                        player.start();
+                    }
                     Toast.makeText(getBaseContext(), "DC", Toast.LENGTH_LONG).show();
                     //Ini hrs dimatiin thread, sama bluetooth socketnya dinullin
 

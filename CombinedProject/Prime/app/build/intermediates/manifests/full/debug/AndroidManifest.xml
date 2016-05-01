@@ -66,7 +66,6 @@
         <activity android:name="info.ppla07.prime.activity.ContactEmergency" />
         <activity android:name="info.ppla07.prime.activity.SelectedContact" />
         <activity android:name="info.ppla07.prime.activity.EditMessage" />
-        <activity android:name="info.ppla07.prime.activity.Main2Activity" />
         <activity android:name="info.ppla07.prime.activity.Settings" />
         <activity android:name="info.ppla07.prime.activity.AlarmSettings" />
     </application>
