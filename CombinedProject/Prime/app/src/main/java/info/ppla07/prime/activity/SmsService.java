@@ -36,10 +36,6 @@ public class SmsService extends Activity {
 
 
     private class MyLocationListener extends Activity implements LocationListener {
-        @Override
-        public Looper getMainLooper() {
-            return super.getMainLooper();
-        }
 
         @Override
         public void onLocationChanged(Location location) {
@@ -75,9 +71,9 @@ public class SmsService extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sms);
 
-        sendBtn = (Button) findViewById(R.id.btnSendSMS);
-
-        sendSMS = (TextView) findViewById(R.id.textSMS);
+//        sendBtn = (Button) findViewById(R.id.btnSendSMS);
+//
+//        sendSMS = (TextView) findViewById(R.id.textSMS);
 
         if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
             return;
@@ -93,13 +89,13 @@ public class SmsService extends Activity {
         provider = locationManager.getBestProvider(criteria, false);
         myLoc = locationManager.getLastKnownLocation(provider);
 
-        sendSMS.setText(getLoc(myLoc));
-
-        sendBtn.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                sendSMSMessage();
-            }
-        });
+//        sendSMS.setText(getLoc(myLoc));
+        sendSMSMessage();
+//        sendBtn.setOnClickListener(new View.OnClickListener() {
+//            public void onClick(View view) {
+//                sendSMSMessage();
+//            }
+//        });
     }
 
     protected void sendSMSMessage() {

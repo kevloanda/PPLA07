@@ -366,7 +366,9 @@ public class BluetoothActivity extends Activity {
                         }
                     });
                     if (message.equals("BAHAYA")) {
-                        sendSMS();
+                        //sendSMS();
+                        Intent activitySms = new Intent(BluetoothActivity.this, SmsService.class);
+                        startActivity(activitySms);
                     }
                 } catch (IOException e) {
                     // TODO Auto-generated catch block
@@ -383,11 +385,6 @@ public class BluetoothActivity extends Activity {
                 // TODO Auto-generated catch block
                 e.printStackTrace();
             }
-        }
-        public void sendSMS() {
-            Looper.prepare();
-            SmsService sms = new SmsService();
-            sms.sendSMSMessage();
         }
     }
 }
