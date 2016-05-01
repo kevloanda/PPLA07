@@ -18,8 +18,11 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.Set;
@@ -352,40 +355,24 @@ public class BluetoothActivity extends Activity {
 
             while (true) {
                 try {
-                    bytes = connectedInputStream.read(buffer);
-//                    String strReceived = new String(buffer, 0, bytes);
-//                    final String msgReceived = String.valueOf(bytes) +
-//                            " bytes received:\n"
-//                            + strReceived;
+                    BufferedReader reader = new BufferedReader(new InputStreamReader(connectedInputStream));
+                    final String message = reader.readLine();
+                    Log.d("debug", message);
+                    runOnUiThread(new Runnable() {
 
-//                    runOnUiThread(new Runnable(){
-//
-//                        @Override
-//                        public void run() {
-//                            textStatus.setText(msgReceived);
-//                        }});
-
+                        @Override
+                        public void run() {
+                            textStatus.setText("Message :" + message);
+                        }
+                    });
                 } catch (IOException e) {
                     // TODO Auto-generated catch block
                     e.printStackTrace();
-
-//                    final String msgConnectionLost = "Connection lost:\n"
-//                            + e.getMessage();
-//                    runOnUiThread(new Runnable() {
-//
-//                        @Override
-//                        public void run() {
-//                            textStatus.setText(msgConnectionLost);
-//                        }
-//                    });
-//                    finish();
 //                    Intent intent = new Intent(this, BluetoothActivity.class);
 //                    startActivity(intent);
-//
                 }
             }
         }
-
         public void cancel() {
             try {
                 connectedBluetoothSocket.close();
