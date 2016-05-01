@@ -7,6 +7,7 @@ import android.bluetooth.BluetoothSocket;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.IntentFilter;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
@@ -18,6 +19,7 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
+import android.os.Looper;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -326,6 +328,7 @@ public class BluetoothActivity extends Activity {
         private final InputStream connectedInputStream;
         private final OutputStream connectedOutputStream;
         public ThreadConnected(BluetoothSocket socket) {
+            Looper.prepare();
             connectedBluetoothSocket = socket;
             InputStream in = null;
             OutputStream out = null;
@@ -350,9 +353,6 @@ public class BluetoothActivity extends Activity {
         }
         @Override
         public void run() {
-            byte[] buffer = new byte[1024];
-            int bytes;
-
             while (true) {
                 try {
                     BufferedReader reader = new BufferedReader(new InputStreamReader(connectedInputStream));
@@ -365,6 +365,9 @@ public class BluetoothActivity extends Activity {
                             textStatus.setText("Message :" + message);
                         }
                     });
+                    if (message.equals("BAHAYA")) {
+                        sendSMS();
+                    }
                 } catch (IOException e) {
                     // TODO Auto-generated catch block
                     e.printStackTrace();
@@ -380,6 +383,11 @@ public class BluetoothActivity extends Activity {
                 // TODO Auto-generated catch block
                 e.printStackTrace();
             }
+        }
+        public void sendSMS() {
+            Looper.prepare();
+            SmsService sms = new SmsService();
+            sms.sendSMSMessage();
         }
     }
 }

@@ -27,8 +27,6 @@ public class SmsService extends Activity {
     private Criteria criteria;
     private float LOCATION_REFRESH_DISTANCE = 0;
     Button sendBtn;
-    EditText txtphoneNo;
-    String txtMessage;
     TextView sendSMS;
     double longitude;
     double latitude;
@@ -38,12 +36,15 @@ public class SmsService extends Activity {
 
 
     private class MyLocationListener extends Activity implements LocationListener {
+        @Override
+        public Looper getMainLooper() {
+            return super.getMainLooper();
+        }
 
         @Override
         public void onLocationChanged(Location location) {
             longitude = location.getLongitude();
             latitude = location.getLatitude();
-
         }
         @Override
         public void onStatusChanged(String provider, int status, Bundle extras) {
