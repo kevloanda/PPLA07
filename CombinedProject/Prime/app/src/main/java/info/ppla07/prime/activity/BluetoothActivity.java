@@ -46,16 +46,11 @@ public class BluetoothActivity extends Activity {
 
     //Inisialisasi variabel dalam activity
     private static final int REQUEST_ENABLE_BT = 1;
-    UUID myUUID;
-    private final String UUID_STRING_WELL_KNOWN_SPP = "00001101-0000-1000-8000-00805F9B34FB";
     BluetoothAdapter bluetoothAdapter;
     ArrayList<BluetoothObject> objectList;
     ArrayAdapter<String> btArrayAdapter;
     ListView listViewDevicesFound;
     TextView textStatus;
-    ThreadToConnectBT myThread;
-    ThreadConnected myThreadConnected;
-    boolean bluetooth_service_started = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -89,11 +84,10 @@ public class BluetoothActivity extends Activity {
                                         + "BluetoothClass: " + device.getBluetoothClass() + "\n"
                                         + "Class: " + device.getClass(),
                                 Toast.LENGTH_LONG).show();
-                        myThread = new ThreadToConnectBT(device);
-                        Toast.makeText(getApplicationContext(),
-                                "berhasil buat thread",
-                                Toast.LENGTH_LONG).show();
-                        myThread.start();
+                        //Dari sini yang jalanin service semua
+                        Intent connectionIntent = new Intent(BluetoothActivity.this, BluetoothService.class);
+                        connectionIntent.putExtra("btDevice", device);
+                        startService(connectionIntent);
                         break;
                     }
                 }
@@ -103,15 +97,12 @@ public class BluetoothActivity extends Activity {
         registerReceiver(ActionFoundReceiver, new IntentFilter(BluetoothDevice.ACTION_FOUND));
 
         textStatus = (TextView) findViewById(R.id.status);
-        textStatus.setText("Welcome to Bluetooth App");
         if (!getPackageManager().hasSystemFeature(PackageManager.FEATURE_BLUETOOTH)){
             Toast.makeText(this, "FEATURE_BLUETOOTH NOT support", Toast.LENGTH_LONG).show();
             finish();
             return;
         }
 
-        //using the well-known SPP UUID
-        myUUID = UUID.fromString(UUID_STRING_WELL_KNOWN_SPP);
 
         //Cek hardware bluetooth bluetooth
         bluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
@@ -154,7 +145,6 @@ public class BluetoothActivity extends Activity {
         objectList = new ArrayList<BluetoothObject>();
         btArrayAdapter.clear();
         bluetoothAdapter.startDiscovery();
-        textStatus.setText("Showing found devices...");
     }
 
     private final BroadcastReceiver ActionFoundReceiver = new BroadcastReceiver(){
@@ -162,9 +152,10 @@ public class BluetoothActivity extends Activity {
         public void onReceive(Context context, Intent intent) {
             // TODO Auto-generated method stub
             String action = intent.getAction();
+            textStatus.setText("Still scanning...");
             if(BluetoothDevice.ACTION_FOUND.equals(action)) {
+                textStatus.setText("Showing found devices...");
                 BluetoothDevice device = intent.getParcelableExtra(BluetoothDevice.EXTRA_DEVICE);
-                Log.d("debug", "device found");
                 BluetoothObject btObject = new BluetoothObject(device);
                 if ((device.getName()).equals("PPL-A07")) {
                     if (objectList.isEmpty()) {
@@ -175,8 +166,6 @@ public class BluetoothActivity extends Activity {
                     else {
                         for (int j = 0; j < objectList.size(); j++) {
                             BluetoothObject a = objectList.get(j);
-                            Log.d("debug2", "device diproses");
-
                             if (!(a.getString().equals(device.getAddress()))) {
                                 btArrayAdapter.add(btObject.getInfo().getName());
                                 btArrayAdapter.notifyDataSetChanged();
@@ -191,16 +180,8 @@ public class BluetoothActivity extends Activity {
 
     @Override
     protected void onDestroy() {
-        Toast.makeText(getApplicationContext(), "Activity Destroyed", Toast.LENGTH_LONG).show();
         super.onDestroy();
         unregisterReceiver(ActionFoundReceiver);
-
-        if(myThread!=null){
-            myThread.cancel();
-        }
-
-        //Harusnya stop servicenya gak disini
-        stopService(new Intent(getBaseContext(), BluetoothService.class));
     }
 
     @Override
@@ -217,15 +198,6 @@ public class BluetoothActivity extends Activity {
         }
     }
 
-    //Called in ThreadConnectBTdevice once connect successed
-    //to start ThreadConnected
-    private void startThreadConnected(BluetoothSocket socket){
-
-        myThreadConnected = new ThreadConnected(socket);
-        myThreadConnected.start();
-    }
-
-
     private void logoutUser() {
         session.setLogin(false);
 
@@ -235,156 +207,5 @@ public class BluetoothActivity extends Activity {
         Intent intent = new Intent(BluetoothActivity.this, LoginActivity.class);
         startActivity(intent);
         finish();
-    }
-
-    /*
-        ThreadConnectBTdevice:
-        Background Thread to handle BlueTooth connecting
-        */
-    private class ThreadToConnectBT extends Thread {
-
-        private BluetoothSocket bluetoothSocket = null;
-        private final BluetoothDevice bluetoothDevice;
-
-
-        private ThreadToConnectBT(BluetoothDevice device) {
-            bluetoothDevice = device;
-
-            try {
-                bluetoothSocket = device.createRfcommSocketToServiceRecord(myUUID);
-                textStatus.setText("bluetoothSocket: \n" + bluetoothSocket);
-            } catch (IOException e) {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
-            }
-        }
-
-        @Override
-        public void run() {
-            boolean success = false;
-            try {
-                bluetoothSocket.connect();
-                success = true;
-            } catch (IOException e) {
-                e.printStackTrace();
-
-                final String eMessage = e.getMessage();
-                runOnUiThread(new Runnable() {
-
-                    @Override
-                    public void run() {
-                        textStatus.setText("something wrong bluetoothSocket.connect(): \n" + eMessage);
-                    }
-                });
-
-                try {
-                    bluetoothSocket.close();
-                } catch (IOException e1) {
-                    // TODO Auto-generated catch block
-                    e1.printStackTrace();
-                }
-            }
-            if(success){
-                //connect successful
-                final String msgconnected = "connect successful:\n"
-                        + "BluetoothSocket: " + bluetoothSocket + "\n"
-                        + "BluetoothDevice: " + bluetoothDevice;
-
-                runOnUiThread(new Runnable() {
-
-                    @Override
-                    public void run() {
-                        textStatus.setText(msgconnected);
-                    }
-                });
-                startThreadConnected(bluetoothSocket);
-            }else{
-                //fail
-            }
-        }
-
-        public void cancel() {
-
-            Toast.makeText(getApplicationContext(),
-                    "close bluetoothSocket",
-                    Toast.LENGTH_LONG).show();
-
-            try {
-                bluetoothSocket.close();
-            } catch (IOException e) {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
-            }
-        }
-    }
-
-    /*
-    ThreadConnected:
-    Background Thread to handle Bluetooth data communication
-    after connected
-     */
-    private class ThreadConnected extends Thread {
-        private final BluetoothSocket connectedBluetoothSocket;
-        private final InputStream connectedInputStream;
-        private final OutputStream connectedOutputStream;
-        public ThreadConnected(BluetoothSocket socket) {
-            Looper.prepare();
-            connectedBluetoothSocket = socket;
-            InputStream in = null;
-            OutputStream out = null;
-
-            try {
-                in = socket.getInputStream();
-                out = socket.getOutputStream();
-            } catch (IOException e) {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
-            }
-            connectedInputStream = in;
-            connectedOutputStream = out;
-            startService(new Intent(getBaseContext(), BluetoothService.class));
-            runOnUiThread(new Runnable() {
-
-                @Override
-                public void run() {
-                    textStatus.setText("Bluetooth service has run");
-                }
-            });
-        }
-        @Override
-        public void run() {
-            while (true) {
-                try {
-                    BufferedReader reader = new BufferedReader(new InputStreamReader(connectedInputStream));
-                    final String message = reader.readLine();
-                    Log.d("debug", message);
-                    runOnUiThread(new Runnable() {
-
-                        @Override
-                        public void run() {
-                            textStatus.setText("Message :" + message);
-                        }
-                    });
-                    if (message.equals("BAHAYA")) {
-                        //sendSMS();
-                        Intent activitySms = new Intent(BluetoothActivity.this, SmsService.class);
-                        startActivity(activitySms);
-                    }
-                } catch (IOException e) {
-                    // TODO Auto-generated catch block
-                    e.printStackTrace();
-//                    Intent intent = new Intent(this, BluetoothActivity.class);
-//                    startActivity(intent);
-                }
-            }
-        }
-        public void cancel() {
-            try {
-                connectedBluetoothSocket.close();
-            } catch (IOException e) {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
-            }
-        }
     }
 }

@@ -43,6 +43,8 @@ public class MainActivity extends Activity {
 		btnContact = (Button) findViewById(R.id.btnContact);
 		btnSetting = (ImageView) findViewById(R.id.btnSetting);
 
+		startService(new Intent(this, BluetoothService.class));
+
 //		// SqLite database handler
 //		db = new SQLiteHandler(getApplicationContext());
 //
