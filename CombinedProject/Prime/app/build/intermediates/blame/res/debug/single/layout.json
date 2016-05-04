@@ -184,6 +184,10 @@
         "source": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
+        "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
         "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
@@ -242,6 +246,10 @@
     {
         "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
         "merged": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
@@ -606,6 +614,10 @@
     {
         "merged": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
         "source": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_home.xml",
+        "source": "C:\\Users\\Christian\\Desktop\\Git Project\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\layout\\drawer_home.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\PPLA07v2\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",

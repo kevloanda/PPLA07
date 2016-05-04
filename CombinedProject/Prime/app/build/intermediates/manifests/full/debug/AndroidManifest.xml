@@ -42,11 +42,6 @@
             android:name="info.ppla07.prime.activity.MainActivity"
             android:label="@string/app_name"
             android:launchMode="singleTop" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name="info.ppla07.prime.activity.BluetoothActivity"
@@ -69,6 +64,15 @@
         <activity android:name="info.ppla07.prime.activity.EditMessage" />
         <activity android:name="info.ppla07.prime.activity.Settings" />
         <activity android:name="info.ppla07.prime.activity.AlarmSettings" />
+        <activity
+            android:name="info.ppla07.prime.activity.HomeActivity"
+            android:label="@string/title_activity_home" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
