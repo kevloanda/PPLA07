@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_login">#f5f5f5</color>
+    <color name="bg_register">#f5f5f5</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#fafafa</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#009688</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_bluetooth_bg">#009688</color>
+    <color name="btn_logut_bg">#ff5722</color>
+
+</resources>
