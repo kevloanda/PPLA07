@@ -81,16 +81,63 @@ public class editProfile extends Activity {
                 }
 
                 if (isEmailValid && isEmailUnique) {
+                    String tag_string_req = "req_update";
                     SharedPreferences sharedpreferences = getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
                     db.editProfile(name, email, sharedpreferences.getString("UserId", ""));
-                    db.close();
-                    Context context = getApplicationContext();
-                    CharSequence text = "Profile Changed!";
-                    int duration = Toast.LENGTH_SHORT;
-                    Toast toast = Toast.makeText(context, text, duration);
-                    toast.show();
-                    Intent activitySelectedContact = new Intent(editProfile.this, Settings.class);
-                    startActivity(activitySelectedContact);
+                    StringRequest strReq = new StringRequest(Request.Method.POST,
+                            AppConfig.URL_UPDATE, new Response.Listener<String>() {
+
+                        @Override
+                        public void onResponse(String response) {
+                            Log.d("Update", "Update Response: " + response.toString());
+
+                            try {
+                                JSONObject jObj = new JSONObject(response);
+                                boolean error = jObj.getBoolean("error");
+                                if (!error) {
+                                    Toast.makeText(getApplicationContext(), "Profile Changed!", Toast.LENGTH_LONG).show();
+                                    Intent activitySelectedContact = new Intent(editProfile.this, Settings.class);
+                                    startActivity(activitySelectedContact);
+                                    finish();
+                                } else {
+
+                                    // Error occurred in update profile. Get the error
+                                    // message
+                                    String errorMsg = jObj.getString("error_msg");
+                                    Toast.makeText(getApplicationContext(),
+                                            errorMsg, Toast.LENGTH_LONG).show();
+                                }
+                            } catch (JSONException e) {
+                                e.printStackTrace();
+                            }
+
+                        }
+                    }, new Response.ErrorListener() {
+
+                        @Override
+                        public void onErrorResponse(VolleyError error) {
+                            Log.e("Update", "Update Error: " + error.getMessage());
+                            Toast.makeText(getApplicationContext(),
+                                    error.getMessage(), Toast.LENGTH_LONG).show();
+                        }
+                    }) {
+
+                        @Override
+                        protected Map<String, String> getParams() {
+                            // Posting params to update url
+                            SharedPreferences sharedpreferences = getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
+                            Map<String, String> params = new HashMap<String, String>();
+                            params.put("name", name);
+                            params.put("email", email);
+                            params.put("id", sharedpreferences.getString("UserId",""));
+
+                            return params;
+                        }
+
+                    };
+
+                    // Adding request to request queue
+                    AppController.getInstance().addToRequestQueue(strReq, tag_string_req);
                 } else if (!isEmailValid) {
                     Context context = getApplicationContext();
                     CharSequence text = "Invalid Email";

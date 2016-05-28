@@ -1,23 +1,45 @@
 <?php
-    $servername = "localhost";
-    $username = "christian";
-    $password = "uwaaaaa";
-    $db_name = "ppl";
 
-    // Create connection
-    $conn = new mysqli($servername, $username, $password, $db_name);
+/**
+ * @author Ravi Tamada
+ * @link http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/ Complete tutorial
+ */
 
-    // Check connection
-    if ($conn->connect_error) {
-        die("Connection failed: " . $conn->connect_error);
-    } 
-    echo "Connected successfully</br>";
-    $sql = "SELECT * FROM user where username='". $_GET['username'] ."' and password='". $_GET['password'] ."'"
-    if($conn->query($sql) === TRUE) {
-        echo "User login was successful!";
+require_once 'include/DB_Functions.php';
+$db = new DB_Functions();
+
+// json response array
+$response = array("error" => FALSE);
+
+if (isset($_POST['email']) && isset($_POST['password'])) {
+
+    // receiving the post params
+    $email = $_POST['email'];
+    $password = $_POST['password'];
+
+    // get the user by email and password
+    $user = $db->getUserByEmailAndPassword($email, $password);
+
+    if ($user != false) {
+        // use is found
+        $response["error"] = FALSE;
+        $response["uid"] = $user["unique_id"];
+        $response["user"]["name"] = $user["name"];
+        $response["user"]["email"] = $user["email"];
+        $response["user"]["created_at"] = $user["created_at"];
+        $response["user"]["updated_at"] = $user["updated_at"];
+        echo json_encode($response);
     } else {
-        echo "Error in insertion with query: " . $sql;
+        // user is not found with the credentials
+        $response["error"] = TRUE;
+        $response["error_msg"] = "Login credentials are wrong. Please try again!";
+        echo json_encode($response);
     }
-
-    $conn->close();
+} else {
+    // required post params is missing
+    $response["error"] = TRUE;
+    $response["error_msg"] = "Required parameters email or password is missing!";
+    echo json_encode($response);
+}
 ?>
+

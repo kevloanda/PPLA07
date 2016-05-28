@@ -73,28 +73,28 @@ public class HomeActivity extends Activity
 
         startService(new Intent(this, BluetoothService.class));
 
-		// SqLite database handler
-		db = new SQLiteHandler(getApplicationContext());
-
-		// session manager
-		session = new SessionManager(getApplicationContext());
-
-		if (!session.isLoggedIn()) {
-			logoutUser();
-		}
-
-		// Fetching user details from SQLite
-		HashMap<String, String> user = db.getUserDetails();
-
-		String name = user.get("name");
-
-        String userId = user.get("uid");
+//		// SqLite database handler
+//		db = new SQLiteHandler(getApplicationContext());
+//
+//		// session manager
+//		session = new SessionManager(getApplicationContext());
+//
+//		if (!session.isLoggedIn()) {
+//			logoutUser();
+//		}
+//
+//		// Fetching user details from SQLite
+//		HashMap<String, String> user = db.getUserDetails();
+//
+//		String name = user.get("name");
+//
+//        String userId = user.get("uid");
 
 
 		SharedPreferences sp = getSharedPreferences("MyPreference", Context.MODE_PRIVATE);
-		SharedPreferences.Editor editor = sp.edit();
-		editor.putString("UserId",userId);
-		editor.commit();
+//		SharedPreferences.Editor editor = sp.edit();
+//		editor.putString("UserId",userId);
+//		editor.commit();
 
         String deviceConnected = sp.getString("DeviceConnected","");
         if(deviceConnected.equals("true")) {
@@ -107,10 +107,10 @@ public class HomeActivity extends Activity
             myIcon.setColorFilter(Color.RED, PorterDuff.Mode.SRC_ATOP);
             ((ImageView)findViewById(R.id.btnBluetooth)).setImageDrawable(myIcon);
         }
-//        String name = "PRIME";
+        String name = "PRIME";
 
         // Displaying the user details on the screen
-        txtName.setText("Welcome, " + name);
+//        txtName.setText("Welcome, " + name);
 
         // Bluetooth button click event
         btnBluetooth.setOnClickListener(new View.OnClickListener() {
