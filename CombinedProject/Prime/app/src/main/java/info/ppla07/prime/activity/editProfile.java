@@ -5,15 +5,26 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ImageView;
 import android.widget.Toast;
 
+import com.android.volley.Request;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.StringRequest;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.util.HashMap;
+import java.util.Map;
 
 import info.ppla07.prime.R;
+import info.ppla07.prime.app.AppConfig;
+import info.ppla07.prime.app.AppController;
 import info.ppla07.prime.helper.SQLiteHandler;
 
 public class editProfile extends Activity {
@@ -36,8 +47,8 @@ public class editProfile extends Activity {
             @Override
             public void onClick(View v) {
                 SQLiteHandler db = new SQLiteHandler(getApplicationContext());
-                String name = ((EditText) findViewById(R.id.editText)).getText().toString();
-                String email = ((EditText) findViewById(R.id.editText3)).getText().toString();
+                final String name = ((EditText) findViewById(R.id.editText)).getText().toString();
+                final String email = ((EditText) findViewById(R.id.editText3)).getText().toString();
                 boolean isEmailValid = true;
                 boolean isEmailUnique = !db.isEmailExist(email);
                 HashMap<String, String> user = db.getUserDetails();

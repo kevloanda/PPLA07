@@ -1,22 +1,6 @@
 [
     {
-        "merged": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test.mp3",
-        "source": "E:\\git\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\raw\\test.mp3"
-    },
-    {
-        "merged": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test.mp3",
-        "source": "C:\\Users\\user\\Documents\\GitHub\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\raw\\test.mp3"
-    },
-    {
-        "merged": "C:\\Users\\Christian\\Desktop\\New Git Project\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test.mp3",
-        "source": "C:\\Users\\Christian\\Desktop\\New Git Project\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\raw\\test.mp3"
-    },
-    {
-        "merged": "C:\\Users\\Christian\\Desktop\\Git\\PPLA07-master\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test.mp3",
-        "source": "C:\\Users\\Christian\\Desktop\\Git\\PPLA07-master\\CombinedProject\\Prime\\app\\src\\main\\res\\raw\\test.mp3"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\PPLA07-Edit\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test.mp3",
-        "source": "C:\\Users\\user\\Desktop\\PPLA07-Edit\\CombinedProject\\Prime\\app\\src\\main\\res\\raw\\test.mp3"
+        "merged": "C:\\Users\\Christian\\Desktop\\New folder (2)\\PPLA07\\CombinedProject\\Prime\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test.mp3",
+        "source": "C:\\Users\\Christian\\Desktop\\New folder (2)\\PPLA07\\CombinedProject\\Prime\\app\\src\\main\\res\\raw\\test.mp3"
     }
 ]
